@@ -1,0 +1,22 @@
+{
+  "registry_version": 1,
+  "plugins": [
+    {
+      "id": "memo",
+      "name": "快捷备忘录",
+      "description": "快速记录和管理备忘信息",
+      "version": "1.0.0",
+      "download_url": "https://github.com/noelle-silva/fast-window-plugins-download/releases/download/vmemo-1.0.0/memo-1.0.0.zip",
+      "sha256": "16e5c60bde376360b80e295f709b8085ec92b348ef4c7c780d3f6e9b1fa7390b",
+      "requires": [
+        "tauri:plugin:store|load",
+        "tauri:plugin:store|get",
+        "tauri:plugin:store|set",
+        "tauri:plugin:store|save",
+        "tauri:storage_get_all",
+        "tauri:plugin:window|start_dragging",
+        "tauri:plugin:resources|close"
+      ]
+    }
+  ]
+}
