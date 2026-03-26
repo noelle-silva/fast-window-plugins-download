@@ -7,7 +7,7 @@
       "description": "快速记录和管理备忘信息",
       "version": "1.0.0",
       "download_url": "https://github.com/noelle-silva/fast-window-plugins-download/releases/download/vmemo-1.0.0/memo-1.0.0.zip",
-      "sha256": "16e5c60bde376360b80e295f709b8085ec92b348ef4c7c780d3f6e9b1fa7390b",
+      "sha256": "4b3c88f0fc095e5ee1283b1af7c4385633c88898992ed12548ab52568c6796ca",
       "requires": [
         "tauri:plugin:store|load",
         "tauri:plugin:store|get",
