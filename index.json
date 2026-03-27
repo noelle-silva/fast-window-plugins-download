@@ -43,6 +43,33 @@
         "tauri:plugin:window|start_dragging",
         "tauri:plugin:resources|close"
       ]
+    },
+    {
+      "id": "ai-chat",
+      "name": "AI 聊天",
+      "description": "多供应商 + 角色系统的 AI 聊天；支持 Markdown/LaTeX/HTML(div) 渲染",
+      "version": "1.0.0",
+      "download_url": "https://github.com/noelle-silva/fast-window-plugins-download/releases/download/vai-chat-1.0.0/ai-chat-1.0.0.zip",
+      "sha256": "3434e65a45b9f273114a0d8387e10e80586ba490990037606a2bf3c0aa0d7ecb",
+      "requires": [
+        "tauri:plugin:store|load",
+        "tauri:plugin:store|get",
+        "tauri:plugin:store|set",
+        "tauri:plugin:store|save",
+        "tauri:plugin:store|delete",
+        "tauri:plugin:store|entries",
+        "tauri:storage_get_all",
+        "tauri:http_request",
+        "tauri:http_request_stream",
+        "tauri:http_request_stream_cancel",
+        "tauri:plugin_pick_images",
+        "tauri:plugin_images_write_base64",
+        "tauri:plugin_images_read",
+        "tauri:plugin_images_delete",
+        "tauri:plugin:window|start_dragging",
+        "tauri:plugin:clipboard-manager|write_text",
+        "tauri:plugin:clipboard-manager|read_text"
+      ]
     }
   ]
 }
