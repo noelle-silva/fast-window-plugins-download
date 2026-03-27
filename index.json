@@ -157,6 +157,28 @@
         "tauri:open_external_uri",
         "tauri:plugin:window|start_dragging"
       ]
+    },
+    {
+      "id": "web-view",
+      "name": "Web View",
+      "description": "管理网站地址，点击后在新窗口打开网页",
+      "version": "1.0.0",
+      "download_url": "https://github.com/noelle-silva/fast-window-plugins-download/releases/download/vweb-view-1.0.0/web-view-1.0.0.zip",
+      "sha256": "914a1e59599249b3a78bb92217c8b734e547653f27444e8a4d8d724545a37dc2",
+      "requires": [
+        "tauri:plugin:store|load",
+        "tauri:plugin:store|get",
+        "tauri:plugin:store|set",
+        "tauri:plugin:store|save",
+        "tauri:storage_get_all",
+        "tauri:http_request",
+        "tauri:http_request_base64",
+        "tauri:plugin_images_write_base64",
+        "tauri:plugin_images_read",
+        "tauri:plugin_images_delete",
+        "tauri:open_browser_window",
+        "tauri:plugin:window|start_dragging"
+      ]
     }
   ]
 }
