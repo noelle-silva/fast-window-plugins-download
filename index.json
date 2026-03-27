@@ -155,6 +155,27 @@
       ]
     },
     {
+      "id": "hyperion",
+      "name": "Hyperion",
+      "description": "HTML 原子笔记：Notes/Assets + 索引库",
+      "version": "0.1.0",
+      "download_url": "https://github.com/noelle-silva/fast-window-plugins-download/releases/download/vhyperion-0.1.0/hyperion-0.1.0.zip",
+      "sha256": "380dc056c8b402b6a2feb4f1ceaedec7b5b72fef5fc8cedb7b00abe98edda1cc",
+      "requires": [
+        "tauri:plugin_get_output_dir",
+        "tauri:plugin_pick_output_dir",
+        "tauri:plugin_open_dir",
+        "tauri:plugin_files_list_dir",
+        "tauri:plugin_files_read_text",
+        "tauri:plugin_files_write_text",
+        "tauri:plugin_files_read_base64",
+        "tauri:plugin_files_write_base64",
+        "tauri:plugin_files_rename",
+        "tauri:plugin_files_delete",
+        "tauri:plugin_pick_images"
+      ]
+    },
+    {
       "id": "vscode-workspaces",
       "name": "VSCode 工作区",
       "description": "收藏常用目录，一键用 VSCode 打开",
