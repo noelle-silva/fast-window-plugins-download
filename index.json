@@ -139,6 +139,24 @@
         "tauri:plugin:clipboard-manager|write_text",
         "tauri:plugin:window|start_dragging"
       ]
+    },
+    {
+      "id": "vscode-workspaces",
+      "name": "VSCode 工作区",
+      "description": "收藏常用目录，一键用 VSCode 打开",
+      "version": "1.0.0",
+      "download_url": "https://github.com/noelle-silva/fast-window-plugins-download/releases/download/vvscode-workspaces-1.0.0/vscode-workspaces-1.0.0.zip",
+      "sha256": "8b0e4f446eeca8238a16f2d772d76e8a817509bec7bd2adbd3a968717a5b57df",
+      "requires": [
+        "tauri:plugin:store|load",
+        "tauri:plugin:store|get",
+        "tauri:plugin:store|set",
+        "tauri:plugin:store|save",
+        "tauri:storage_get_all",
+        "tauri:plugin_pick_dir",
+        "tauri:open_external_uri",
+        "tauri:plugin:window|start_dragging"
+      ]
     }
   ]
 }
