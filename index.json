@@ -102,6 +102,24 @@
         "tauri:plugin:clipboard-manager|write_text",
         "tauri:plugin:clipboard-manager|read_text"
       ]
+    },
+    {
+      "id": "ai-once",
+      "name": "AI 一次性响应",
+      "description": "每个空间独立模板与默认模型；左侧输入（支持粘贴/上传图片），右侧输出；一次请求一次返回",
+      "version": "1.1.1",
+      "download_url": "https://github.com/noelle-silva/fast-window-plugins-download/releases/download/vai-once-1.1.1/ai-once-1.1.1.zip",
+      "sha256": "9406b43310d4d93633c09755136d422693e46d98e3bc62d3c183a7be40d7568e",
+      "requires": [
+        "tauri:plugin:store|load",
+        "tauri:plugin:store|get",
+        "tauri:plugin:store|set",
+        "tauri:plugin:store|save",
+        "tauri:storage_get_all",
+        "tauri:http_request",
+        "tauri:plugin:clipboard-manager|write_text",
+        "tauri:plugin:window|start_dragging"
+      ]
     }
   ]
 }
