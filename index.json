@@ -45,6 +45,25 @@
       ]
     },
     {
+      "id": "folders",
+      "name": "文件夹收藏",
+      "description": "收藏常用本地文件夹，点击即可在文件管理器打开",
+      "version": "1.0.0",
+      "download_url": "https://github.com/noelle-silva/fast-window-plugins-download/releases/download/vfolders-1.0.0/folders-1.0.0.zip",
+      "sha256": "d3137ba07bc40d27157f0347276a5dc77a9f0268ca86ed4326330fafb848d20c",
+      "requires": [
+        "tauri:plugin:store|load",
+        "tauri:plugin:store|get",
+        "tauri:plugin:store|set",
+        "tauri:plugin:store|save",
+        "tauri:plugin:store|delete",
+        "tauri:storage_get_all",
+        "tauri:plugin_pick_dir",
+        "tauri:plugin_open_dir",
+        "tauri:plugin:window|start_dragging"
+      ]
+    },
+    {
       "id": "ai-draw",
       "name": "AI 绘图",
       "description": "左侧输入提示词，右侧出图；一次请求一次返回（无上下文）；默认保存到 data/ai-draw/output-images，可通过资源管理器选择输出目录",
