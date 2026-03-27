@@ -7,7 +7,7 @@
       "description": "查看和管理剪贴板历史记录",
       "version": "1.0.0",
       "download_url": "https://github.com/noelle-silva/fast-window-plugins-download/releases/download/vclipboard-history-1.0.0/clipboard-history-1.0.0.zip",
-      "sha256": "c1a2d651c67e70c54de8ff6763be3d95da6cfa3de3f12bea3a34c996881667f0",
+      "sha256": "aaffeac02509018475b7489807004041fbb6fd53f440cdcf9b5fb1486d8ee647",
       "requires": [
         "tauri:plugin:store|load",
         "tauri:plugin:store|get",
