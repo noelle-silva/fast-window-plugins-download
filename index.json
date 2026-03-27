@@ -45,6 +45,29 @@
       ]
     },
     {
+      "id": "bookmarks",
+      "name": "网站收藏",
+      "description": "收藏、分组管理常用网站，点击即可用浏览器打开",
+      "version": "1.0.0",
+      "download_url": "https://github.com/noelle-silva/fast-window-plugins-download/releases/download/vbookmarks-1.0.0/bookmarks-1.0.0.zip",
+      "sha256": "8420aa16a6904149ebf16176462bbe10f171b14ea6ef25589aead39f8220deb5",
+      "requires": [
+        "tauri:plugin:store|load",
+        "tauri:plugin:store|get",
+        "tauri:plugin:store|set",
+        "tauri:plugin:store|save",
+        "tauri:plugin:store|delete",
+        "tauri:storage_get_all",
+        "tauri:http_request",
+        "tauri:http_request_base64",
+        "tauri:plugin_images_write_base64",
+        "tauri:plugin_images_read",
+        "tauri:plugin_images_delete",
+        "tauri:open_external_url",
+        "tauri:plugin:window|start_dragging"
+      ]
+    },
+    {
       "id": "folders",
       "name": "文件夹收藏",
       "description": "收藏常用本地文件夹，点击即可在文件管理器打开",
