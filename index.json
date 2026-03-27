@@ -2,6 +2,24 @@
   "registry_version": 1,
   "plugins": [
     {
+      "id": "calculator",
+      "name": "计算器",
+      "description": "安全表达式计算：+ - * / ^，支持括号、历史记录、复制/粘贴",
+      "version": "1.0.0",
+      "download_url": "https://github.com/noelle-silva/fast-window-plugins-download/releases/download/vcalculator-1.0.0/calculator-1.0.0.zip",
+      "sha256": "50f8f2620068a70232d9dd0995feeb4e7c4be30de59f0e644b5c96ae4b37d39a",
+      "requires": [
+        "tauri:plugin:store|load",
+        "tauri:plugin:store|get",
+        "tauri:plugin:store|set",
+        "tauri:plugin:store|save",
+        "tauri:storage_get_all",
+        "tauri:plugin:clipboard-manager|read_text",
+        "tauri:plugin:clipboard-manager|write_text",
+        "tauri:plugin:window|start_dragging"
+      ]
+    },
+    {
       "id": "clipboard-history",
       "name": "剪贴板历史",
       "description": "查看和管理剪贴板历史记录",
