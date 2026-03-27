@@ -45,6 +45,38 @@
       ]
     },
     {
+      "id": "ai-draw",
+      "name": "AI 绘图",
+      "description": "左侧输入提示词，右侧出图；一次请求一次返回（无上下文）；默认保存到 data/ai-draw/output-images，可通过资源管理器选择输出目录",
+      "version": "1.2.2",
+      "download_url": "https://github.com/noelle-silva/fast-window-plugins-download/releases/download/vai-draw-1.2.2/ai-draw-1.2.2.zip",
+      "sha256": "230a22dea3352bb41990b179e2cb7c4502115587a2ba1048cb9b01039c5b7ae1",
+      "requires": [
+        "tauri:plugin:store|load",
+        "tauri:plugin:store|get",
+        "tauri:plugin:store|set",
+        "tauri:plugin:store|save",
+        "tauri:plugin:store|delete",
+        "tauri:storage_get_all",
+        "tauri:http_request",
+        "tauri:task_create",
+        "tauri:task_get",
+        "tauri:task_list",
+        "tauri:task_cancel",
+        "tauri:plugin_get_output_dir",
+        "tauri:plugin_pick_output_dir",
+        "tauri:plugin_open_output_dir",
+        "tauri:plugin_pick_images",
+        "tauri:plugin_images_write_base64",
+        "tauri:plugin_images_read",
+        "tauri:plugin_images_list",
+        "tauri:plugin_images_delete",
+        "tauri:plugin:window|start_dragging",
+        "tauri:plugin:clipboard-manager|write_text",
+        "tauri:clipboard_write_image_data_url"
+      ]
+    },
+    {
       "id": "ai-chat",
       "name": "AI 聊天",
       "description": "多供应商 + 角色系统的 AI 聊天；支持 Markdown/LaTeX/HTML(div) 渲染",
