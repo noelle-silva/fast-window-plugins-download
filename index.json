@@ -64,6 +64,20 @@
       ]
     },
     {
+      "id": "anime-finder",
+      "name": "以图找番",
+      "description": "上传/拖拽/粘贴图片，调用 trace.moe 进行以图找番",
+      "version": "1.0.0",
+      "download_url": "https://github.com/noelle-silva/fast-window-plugins-download/releases/download/vanime-finder-1.0.0/anime-finder-1.0.0.zip",
+      "sha256": "6990499c76147999a14de540f9398c520e2116faf4d672da2822b1a575e8153f",
+      "requires": [
+        "tauri:http_request",
+        "tauri:clipboard_read_image_data_url",
+        "tauri:plugin:clipboard-manager|write_text",
+        "tauri:plugin:window|start_dragging"
+      ]
+    },
+    {
       "id": "ai-draw",
       "name": "AI 绘图",
       "description": "左侧输入提示词，右侧出图；一次请求一次返回（无上下文）；默认保存到 data/ai-draw/output-images，可通过资源管理器选择输出目录",
