@@ -161,9 +161,10 @@
       "id": "ai-chat",
       "name": "AI 聊天",
       "description": "多供应商 + 角色系统的 AI 聊天；支持 Markdown/LaTeX/HTML(div) 渲染",
-      "version": "1.0.0",
-      "download_url": "https://github.com/noelle-silva/fast-window-plugins-download/releases/download/vai-chat-1.0.0/ai-chat-1.0.0.zip",
-      "sha256": "3434e65a45b9f273114a0d8387e10e80586ba490990037606a2bf3c0aa0d7ecb",
+      "icon": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%2064%2064%22%20role%3D%22img%22%20aria-label%3D%22AI%20Chat%22%3E%0A%20%20%3Cpath%0A%20%20%20%20d%3D%22M20%2012h24c8.284%200%2015%206.716%2015%2015v3c0%208.284-6.716%2015-15%2015H31.5L22%2055v-10h-2c-8.284%200-15-6.716-15-15v-3c0-8.284%206.716-15%2015-15Z%22%0A%20%20%20%20fill%3D%22%23D9A3B3%22%0A%20%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%2226%22%20cy%3D%2229%22%20r%3D%223%22%20fill%3D%22%23FFFFFF%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%2234%22%20cy%3D%2229%22%20r%3D%223%22%20fill%3D%22%23FFFFFF%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%2242%22%20cy%3D%2229%22%20r%3D%223%22%20fill%3D%22%23FFFFFF%22%20%2F%3E%0A%3C%2Fsvg%3E%0A",
+      "version": "1.0.1",
+      "download_url": "https://github.com/noelle-silva/fast-window-plugins-download/releases/download/vai-chat-1.0.1/ai-chat-1.0.1.zip",
+      "sha256": "82ddca9b3bea6af66bbf1862f02f2b004165eba6aea719db09d773a3dae62227",
       "requires": [
         "tauri:plugin:store|load",
         "tauri:plugin:store|get",
@@ -182,8 +183,7 @@
         "tauri:plugin:window|start_dragging",
         "tauri:plugin:clipboard-manager|write_text",
         "tauri:plugin:clipboard-manager|read_text"
-      ],
-      "icon": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%2064%2064%22%20role%3D%22img%22%20aria-label%3D%22AI%20Chat%22%3E%0A%20%20%3Cpath%0A%20%20%20%20d%3D%22M20%2012h24c8.284%200%2015%206.716%2015%2015v3c0%208.284-6.716%2015-15%2015H31.5L22%2055v-10h-2c-8.284%200-15-6.716-15-15v-3c0-8.284%206.716-15%2015-15Z%22%0A%20%20%20%20fill%3D%22%23D9A3B3%22%0A%20%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%2226%22%20cy%3D%2229%22%20r%3D%223%22%20fill%3D%22%23FFFFFF%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%2234%22%20cy%3D%2229%22%20r%3D%223%22%20fill%3D%22%23FFFFFF%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%2242%22%20cy%3D%2229%22%20r%3D%223%22%20fill%3D%22%23FFFFFF%22%20%2F%3E%0A%3C%2Fsvg%3E%0A"
+      ]
     },
     {
       "id": "ai-once",
