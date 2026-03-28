@@ -249,9 +249,10 @@
       "id": "web-view",
       "name": "Web View",
       "description": "管理网站地址，点击后在新窗口打开网页",
-      "version": "1.0.0",
-      "download_url": "https://github.com/noelle-silva/fast-window-plugins-download/releases/download/vweb-view-1.0.0/web-view-1.0.0.zip",
-      "sha256": "914a1e59599249b3a78bb92217c8b734e547653f27444e8a4d8d724545a37dc2",
+      "icon": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%2064%2064%22%20role%3D%22img%22%20aria-label%3D%22Web%20View%22%3E%0A%20%20%3Crect%20x%3D%226%22%20y%3D%226%22%20width%3D%2252%22%20height%3D%2252%22%20rx%3D%2214%22%20fill%3D%22%23A9D9D3%22%20%2F%3E%0A%20%20%3Cg%20fill%3D%22none%22%20stroke%3D%22%23FFFFFF%22%20stroke-width%3D%224%22%20stroke-linecap%3D%22round%22%20stroke-linejoin%3D%22round%22%3E%0A%20%20%20%20%3Ccircle%20cx%3D%2232%22%20cy%3D%2232%22%20r%3D%2214%22%20%2F%3E%0A%20%20%20%20%3Cpath%20d%3D%22M18%2032h28%22%20%2F%3E%0A%20%20%20%20%3Cpath%20d%3D%22M32%2018c4%205%206%209%206%2014s-2%209-6%2014%22%20%2F%3E%0A%20%20%20%20%3Cpath%20d%3D%22M32%2018c-4%205-6%209-6%2014s2%209%206%2014%22%20%2F%3E%0A%20%20%3C%2Fg%3E%0A%3C%2Fsvg%3E%0A",
+      "version": "1.0.1",
+      "download_url": "https://github.com/noelle-silva/fast-window-plugins-download/releases/download/vweb-view-1.0.1/web-view-1.0.1.zip",
+      "sha256": "9edb5f75937288c45a88bc21c1aec998210a799598ba8984417ee500c85ddb97",
       "requires": [
         "tauri:plugin:store|load",
         "tauri:plugin:store|get",
@@ -265,8 +266,7 @@
         "tauri:plugin_images_delete",
         "tauri:open_browser_window",
         "tauri:plugin:window|start_dragging"
-      ],
-      "icon": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%2064%2064%22%20role%3D%22img%22%20aria-label%3D%22Web%20View%22%3E%0A%20%20%3Crect%20x%3D%226%22%20y%3D%226%22%20width%3D%2252%22%20height%3D%2252%22%20rx%3D%2214%22%20fill%3D%22%23A9D9D3%22%20%2F%3E%0A%20%20%3Cg%20fill%3D%22none%22%20stroke%3D%22%23FFFFFF%22%20stroke-width%3D%224%22%20stroke-linecap%3D%22round%22%20stroke-linejoin%3D%22round%22%3E%0A%20%20%20%20%3Ccircle%20cx%3D%2232%22%20cy%3D%2232%22%20r%3D%2214%22%20%2F%3E%0A%20%20%20%20%3Cpath%20d%3D%22M18%2032h28%22%20%2F%3E%0A%20%20%20%20%3Cpath%20d%3D%22M32%2018c4%205%206%209%206%2014s-2%209-6%2014%22%20%2F%3E%0A%20%20%20%20%3Cpath%20d%3D%22M32%2018c-4%205-6%209-6%2014s2%209%206%2014%22%20%2F%3E%0A%20%20%3C%2Fg%3E%0A%3C%2Fsvg%3E%0A"
+      ]
     }
   ]
 }
