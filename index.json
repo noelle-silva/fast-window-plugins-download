@@ -93,9 +93,10 @@
       "id": "folders",
       "name": "文件夹收藏",
       "description": "收藏常用本地文件夹，点击即可在文件管理器打开",
-      "version": "1.0.0",
-      "download_url": "https://github.com/noelle-silva/fast-window-plugins-download/releases/download/vfolders-1.0.0/folders-1.0.0.zip",
-      "sha256": "d3137ba07bc40d27157f0347276a5dc77a9f0268ca86ed4326330fafb848d20c",
+      "icon": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%2064%2064%22%20role%3D%22img%22%20aria-label%3D%22Folders%22%3E%0A%20%20%3Crect%20x%3D%226%22%20y%3D%226%22%20width%3D%2252%22%20height%3D%2252%22%20rx%3D%2214%22%20fill%3D%22%23D9C0A9%22%20%2F%3E%0A%20%20%3Cg%20fill%3D%22none%22%20stroke%3D%22%23FFFFFF%22%20stroke-width%3D%224%22%20stroke-linecap%3D%22round%22%20stroke-linejoin%3D%22round%22%3E%0A%20%20%20%20%3Cpath%20d%3D%22M16%2024h14l4%204h14v22H16z%22%20%2F%3E%0A%20%20%20%20%3Cpath%20d%3D%22M16%2024v-4h14l4%204%22%20%2F%3E%0A%20%20%3C%2Fg%3E%0A%3C%2Fsvg%3E%0A",
+      "version": "1.0.1",
+      "download_url": "https://github.com/noelle-silva/fast-window-plugins-download/releases/download/vfolders-1.0.1/folders-1.0.1.zip",
+      "sha256": "4f759bbd39b807a57510f99a13a2942a890e59bc58fc345c47b6280f1d3a046b",
       "requires": [
         "tauri:plugin:store|load",
         "tauri:plugin:store|get",
@@ -106,8 +107,7 @@
         "tauri:plugin_pick_dir",
         "tauri:plugin_open_dir",
         "tauri:plugin:window|start_dragging"
-      ],
-      "icon": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%2064%2064%22%20role%3D%22img%22%20aria-label%3D%22Folders%22%3E%0A%20%20%3Crect%20x%3D%226%22%20y%3D%226%22%20width%3D%2252%22%20height%3D%2252%22%20rx%3D%2214%22%20fill%3D%22%23D9C0A9%22%20%2F%3E%0A%20%20%3Cg%20fill%3D%22none%22%20stroke%3D%22%23FFFFFF%22%20stroke-width%3D%224%22%20stroke-linecap%3D%22round%22%20stroke-linejoin%3D%22round%22%3E%0A%20%20%20%20%3Cpath%20d%3D%22M16%2024h14l4%204h14v22H16z%22%20%2F%3E%0A%20%20%20%20%3Cpath%20d%3D%22M16%2024v-4h14l4%204%22%20%2F%3E%0A%20%20%3C%2Fg%3E%0A%3C%2Fsvg%3E%0A"
+      ]
     },
     {
       "id": "anime-finder",
