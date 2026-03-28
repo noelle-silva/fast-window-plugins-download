@@ -128,9 +128,10 @@
       "id": "ai-draw",
       "name": "AI 绘图",
       "description": "左侧输入提示词，右侧出图；一次请求一次返回（无上下文）；默认保存到 data/ai-draw/output-images，可通过资源管理器选择输出目录",
-      "version": "1.2.2",
-      "download_url": "https://github.com/noelle-silva/fast-window-plugins-download/releases/download/vai-draw-1.2.2/ai-draw-1.2.2.zip",
-      "sha256": "230a22dea3352bb41990b179e2cb7c4502115587a2ba1048cb9b01039c5b7ae1",
+      "icon": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%2064%2064%22%20role%3D%22img%22%20aria-label%3D%22AI%20Draw%22%3E%0A%20%20%3Crect%20x%3D%226%22%20y%3D%226%22%20width%3D%2252%22%20height%3D%2252%22%20rx%3D%2214%22%20fill%3D%22%23C0A9D9%22%20%2F%3E%0A%20%20%3Cg%20fill%3D%22none%22%20stroke%3D%22%23FFFFFF%22%20stroke-width%3D%224%22%20stroke-linecap%3D%22round%22%20stroke-linejoin%3D%22round%22%3E%0A%20%20%20%20%3Cpath%20d%3D%22M22%2042l22-22%206%206-22%2022H22z%22%20%2F%3E%0A%20%20%20%20%3Cpath%20d%3D%22M38%2018l8%208%22%20%2F%3E%0A%20%20%20%20%3Cpath%20d%3D%22M22%2042l10-2-8-8-2%2010z%22%20%2F%3E%0A%20%20%3C%2Fg%3E%0A%3C%2Fsvg%3E%0A",
+      "version": "1.2.3",
+      "download_url": "https://github.com/noelle-silva/fast-window-plugins-download/releases/download/vai-draw-1.2.3/ai-draw-1.2.3.zip",
+      "sha256": "3aa2553d38b71d6431f654541b8ecb1213b3da4d1f3765bb64bbe1188a88539c",
       "requires": [
         "tauri:plugin:store|load",
         "tauri:plugin:store|get",
@@ -154,8 +155,7 @@
         "tauri:plugin:window|start_dragging",
         "tauri:plugin:clipboard-manager|write_text",
         "tauri:clipboard_write_image_data_url"
-      ],
-      "icon": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%2064%2064%22%20role%3D%22img%22%20aria-label%3D%22AI%20Draw%22%3E%0A%20%20%3Crect%20x%3D%226%22%20y%3D%226%22%20width%3D%2252%22%20height%3D%2252%22%20rx%3D%2214%22%20fill%3D%22%23C0A9D9%22%20%2F%3E%0A%20%20%3Cg%20fill%3D%22none%22%20stroke%3D%22%23FFFFFF%22%20stroke-width%3D%224%22%20stroke-linecap%3D%22round%22%20stroke-linejoin%3D%22round%22%3E%0A%20%20%20%20%3Cpath%20d%3D%22M22%2042l22-22%206%206-22%2022H22z%22%20%2F%3E%0A%20%20%20%20%3Cpath%20d%3D%22M38%2018l8%208%22%20%2F%3E%0A%20%20%20%20%3Cpath%20d%3D%22M22%2042l10-2-8-8-2%2010z%22%20%2F%3E%0A%20%20%3C%2Fg%3E%0A%3C%2Fsvg%3E%0A"
+      ]
     },
     {
       "id": "ai-chat",
