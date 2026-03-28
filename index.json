@@ -5,9 +5,10 @@
       "id": "calculator",
       "name": "计算器",
       "description": "安全表达式计算：+ - * / ^，支持括号、历史记录、复制/粘贴",
-      "version": "1.0.0",
-      "download_url": "https://github.com/noelle-silva/fast-window-plugins-download/releases/download/vcalculator-1.0.0/calculator-1.0.0.zip",
-      "sha256": "50f8f2620068a70232d9dd0995feeb4e7c4be30de59f0e644b5c96ae4b37d39a",
+      "icon": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%2064%2064%22%20role%3D%22img%22%20aria-label%3D%22Calculator%22%3E%0A%20%20%3Crect%20x%3D%226%22%20y%3D%226%22%20width%3D%2252%22%20height%3D%2252%22%20rx%3D%2214%22%20fill%3D%22%23B2D9A9%22%20%2F%3E%0A%20%20%3Cg%20fill%3D%22none%22%20stroke%3D%22%23FFFFFF%22%20stroke-width%3D%224%22%20stroke-linecap%3D%22round%22%20stroke-linejoin%3D%22round%22%3E%0A%20%20%20%20%3Crect%20x%3D%2220%22%20y%3D%2216%22%20width%3D%2224%22%20height%3D%2232%22%20rx%3D%226%22%20%2F%3E%0A%20%20%20%20%3Cpath%20d%3D%22M24%2024h16%22%20%2F%3E%0A%20%20%20%20%3Cpath%20d%3D%22M26%2032h0M32%2032h0M38%2032h0%22%20%2F%3E%0A%20%20%20%20%3Cpath%20d%3D%22M26%2040h0M32%2040h0M38%2040h0%22%20%2F%3E%0A%20%20%3C%2Fg%3E%0A%20%20%3Cg%20fill%3D%22%23FFFFFF%22%3E%0A%20%20%20%20%3Ccircle%20cx%3D%2226%22%20cy%3D%2232%22%20r%3D%222%22%20%2F%3E%0A%20%20%20%20%3Ccircle%20cx%3D%2232%22%20cy%3D%2232%22%20r%3D%222%22%20%2F%3E%0A%20%20%20%20%3Ccircle%20cx%3D%2238%22%20cy%3D%2232%22%20r%3D%222%22%20%2F%3E%0A%20%20%20%20%3Ccircle%20cx%3D%2226%22%20cy%3D%2240%22%20r%3D%222%22%20%2F%3E%0A%20%20%20%20%3Ccircle%20cx%3D%2232%22%20cy%3D%2240%22%20r%3D%222%22%20%2F%3E%0A%20%20%20%20%3Ccircle%20cx%3D%2238%22%20cy%3D%2240%22%20r%3D%222%22%20%2F%3E%0A%20%20%3C%2Fg%3E%0A%3C%2Fsvg%3E%0A",
+      "version": "1.0.1",
+      "download_url": "https://github.com/noelle-silva/fast-window-plugins-download/releases/download/vcalculator-1.0.1/calculator-1.0.1.zip",
+      "sha256": "7895e137d5ada8960a82062d654735cdff68e1f692adc29ae03600c7d5335b5a",
       "requires": [
         "tauri:plugin:store|load",
         "tauri:plugin:store|get",
@@ -17,8 +18,7 @@
         "tauri:plugin:clipboard-manager|read_text",
         "tauri:plugin:clipboard-manager|write_text",
         "tauri:plugin:window|start_dragging"
-      ],
-      "icon": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%2064%2064%22%20role%3D%22img%22%20aria-label%3D%22Calculator%22%3E%0A%20%20%3Crect%20x%3D%226%22%20y%3D%226%22%20width%3D%2252%22%20height%3D%2252%22%20rx%3D%2214%22%20fill%3D%22%23B2D9A9%22%20%2F%3E%0A%20%20%3Cg%20fill%3D%22none%22%20stroke%3D%22%23FFFFFF%22%20stroke-width%3D%224%22%20stroke-linecap%3D%22round%22%20stroke-linejoin%3D%22round%22%3E%0A%20%20%20%20%3Crect%20x%3D%2220%22%20y%3D%2216%22%20width%3D%2224%22%20height%3D%2232%22%20rx%3D%226%22%20%2F%3E%0A%20%20%20%20%3Cpath%20d%3D%22M24%2024h16%22%20%2F%3E%0A%20%20%20%20%3Cpath%20d%3D%22M26%2032h0M32%2032h0M38%2032h0%22%20%2F%3E%0A%20%20%20%20%3Cpath%20d%3D%22M26%2040h0M32%2040h0M38%2040h0%22%20%2F%3E%0A%20%20%3C%2Fg%3E%0A%20%20%3Cg%20fill%3D%22%23FFFFFF%22%3E%0A%20%20%20%20%3Ccircle%20cx%3D%2226%22%20cy%3D%2232%22%20r%3D%222%22%20%2F%3E%0A%20%20%20%20%3Ccircle%20cx%3D%2232%22%20cy%3D%2232%22%20r%3D%222%22%20%2F%3E%0A%20%20%20%20%3Ccircle%20cx%3D%2238%22%20cy%3D%2232%22%20r%3D%222%22%20%2F%3E%0A%20%20%20%20%3Ccircle%20cx%3D%2226%22%20cy%3D%2240%22%20r%3D%222%22%20%2F%3E%0A%20%20%20%20%3Ccircle%20cx%3D%2232%22%20cy%3D%2240%22%20r%3D%222%22%20%2F%3E%0A%20%20%20%20%3Ccircle%20cx%3D%2238%22%20cy%3D%2240%22%20r%3D%222%22%20%2F%3E%0A%20%20%3C%2Fg%3E%0A%3C%2Fsvg%3E%0A"
+      ]
     },
     {
       "id": "clipboard-history",
