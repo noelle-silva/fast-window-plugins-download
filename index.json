@@ -189,9 +189,10 @@
       "id": "ai-once",
       "name": "AI 一次性响应",
       "description": "每个空间独立模板与默认模型；左侧输入（支持粘贴/上传图片），右侧输出；一次请求一次返回",
-      "version": "1.1.1",
-      "download_url": "https://github.com/noelle-silva/fast-window-plugins-download/releases/download/vai-once-1.1.1/ai-once-1.1.1.zip",
-      "sha256": "9406b43310d4d93633c09755136d422693e46d98e3bc62d3c183a7be40d7568e",
+      "icon": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%2064%2064%22%20role%3D%22img%22%20aria-label%3D%22AI%20Once%22%3E%0A%20%20%3Crect%20x%3D%226%22%20y%3D%226%22%20width%3D%2252%22%20height%3D%2252%22%20rx%3D%2214%22%20fill%3D%22%23A9D9C9%22%20%2F%3E%0A%20%20%3Cg%20fill%3D%22none%22%20stroke%3D%22%23FFFFFF%22%20stroke-width%3D%224%22%20stroke-linecap%3D%22round%22%20stroke-linejoin%3D%22round%22%3E%0A%20%20%20%20%3Cpath%20d%3D%22M32%2014v6%22%20%2F%3E%0A%20%20%20%20%3Cpath%20d%3D%22M28%2014h8%22%20%2F%3E%0A%20%20%20%20%3Crect%20x%3D%2218%22%20y%3D%2222%22%20width%3D%2228%22%20height%3D%2224%22%20rx%3D%228%22%20%2F%3E%0A%20%20%20%20%3Cpath%20d%3D%22M24%2030h0%22%20%2F%3E%0A%20%20%20%20%3Cpath%20d%3D%22M40%2030h0%22%20%2F%3E%0A%20%20%20%20%3Cpath%20d%3D%22M26%2040h12%22%20%2F%3E%0A%20%20%3C%2Fg%3E%0A%20%20%3Cg%20fill%3D%22%23FFFFFF%22%3E%0A%20%20%20%20%3Ccircle%20cx%3D%2224%22%20cy%3D%2230%22%20r%3D%222.5%22%20%2F%3E%0A%20%20%20%20%3Ccircle%20cx%3D%2240%22%20cy%3D%2230%22%20r%3D%222.5%22%20%2F%3E%0A%20%20%3C%2Fg%3E%0A%3C%2Fsvg%3E%0A",
+      "version": "1.1.2",
+      "download_url": "https://github.com/noelle-silva/fast-window-plugins-download/releases/download/vai-once-1.1.2/ai-once-1.1.2.zip",
+      "sha256": "4e7f7fcc0831958bb5ec820ace3357118018b842de736c966f052427e8513724",
       "requires": [
         "tauri:plugin:store|load",
         "tauri:plugin:store|get",
@@ -201,8 +202,7 @@
         "tauri:http_request",
         "tauri:plugin:clipboard-manager|write_text",
         "tauri:plugin:window|start_dragging"
-      ],
-      "icon": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%2064%2064%22%20role%3D%22img%22%20aria-label%3D%22AI%20Once%22%3E%0A%20%20%3Crect%20x%3D%226%22%20y%3D%226%22%20width%3D%2252%22%20height%3D%2252%22%20rx%3D%2214%22%20fill%3D%22%23A9D9C9%22%20%2F%3E%0A%20%20%3Cg%20fill%3D%22none%22%20stroke%3D%22%23FFFFFF%22%20stroke-width%3D%224%22%20stroke-linecap%3D%22round%22%20stroke-linejoin%3D%22round%22%3E%0A%20%20%20%20%3Cpath%20d%3D%22M32%2014v6%22%20%2F%3E%0A%20%20%20%20%3Cpath%20d%3D%22M28%2014h8%22%20%2F%3E%0A%20%20%20%20%3Crect%20x%3D%2218%22%20y%3D%2222%22%20width%3D%2228%22%20height%3D%2224%22%20rx%3D%228%22%20%2F%3E%0A%20%20%20%20%3Cpath%20d%3D%22M24%2030h0%22%20%2F%3E%0A%20%20%20%20%3Cpath%20d%3D%22M40%2030h0%22%20%2F%3E%0A%20%20%20%20%3Cpath%20d%3D%22M26%2040h12%22%20%2F%3E%0A%20%20%3C%2Fg%3E%0A%20%20%3Cg%20fill%3D%22%23FFFFFF%22%3E%0A%20%20%20%20%3Ccircle%20cx%3D%2224%22%20cy%3D%2230%22%20r%3D%222.5%22%20%2F%3E%0A%20%20%20%20%3Ccircle%20cx%3D%2240%22%20cy%3D%2230%22%20r%3D%222.5%22%20%2F%3E%0A%20%20%3C%2Fg%3E%0A%3C%2Fsvg%3E%0A"
+      ]
     },
     {
       "id": "hyperion",
