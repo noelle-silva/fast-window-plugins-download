@@ -1,6 +1,6 @@
 {
   "catalogVersion": 2,
-  "generatedAt": "2026-05-10T20:50:32.824Z",
+  "generatedAt": "2026-05-10T20:53:51.033Z",
   "apps": [
     {
       "id": "clipboard-history",
@@ -127,6 +127,46 @@
         {
           "id": "open-settings",
           "title": "打开设置"
+        }
+      ]
+    },
+    {
+      "id": "hypercortex",
+      "name": "HyperCortex",
+      "description": "HyperCortex v5 知识库、笔记与附件工作台",
+      "version": "0.1.0",
+      "icon": {
+        "type": "emoji",
+        "value": "🧬"
+      },
+      "platforms": {
+        "windows": {
+          "downloadUrl": "https://github.com/noelle-silva/fast-window-plugins-download/releases/download/vhypercortex-0.1.0/hypercortex-0.1.0-windows.zip",
+          "sha256": "1acb479d86ff047a597eda1aa424f4e47d3f3617106ffe2ce9d90e2642792229",
+          "sizeBytes": 37719435
+        }
+      },
+      "displayMode": "default",
+      "commands": [
+        {
+          "id": "new-note",
+          "title": "新建笔记"
+        },
+        {
+          "id": "open-hypercortex",
+          "title": "打开 HyperCortex"
+        },
+        {
+          "id": "quick-search",
+          "title": "搜索 HyperCortex"
+        },
+        {
+          "id": "open-settings",
+          "title": "打开设置"
+        },
+        {
+          "id": "open-assets",
+          "title": "打开附件库"
         }
       ]
     }
