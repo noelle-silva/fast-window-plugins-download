@@ -1,6 +1,6 @@
 {
   "catalogVersion": 2,
-  "generatedAt": "2026-05-10T20:12:47.134Z",
+  "generatedAt": "2026-05-10T20:46:37.237Z",
   "apps": [
     {
       "id": "clipboard-history",
@@ -63,6 +63,42 @@
         {
           "id": "new-prompt",
           "title": "新建一次性 Prompt"
+        }
+      ]
+    },
+    {
+      "id": "ai-studio",
+      "name": "AI Studio",
+      "description": "多供应商与角色系统的 v5 AI Studio 应用",
+      "version": "0.1.0",
+      "icon": {
+        "type": "emoji",
+        "value": "🧠"
+      },
+      "platforms": {
+        "windows": {
+          "downloadUrl": "https://github.com/noelle-silva/fast-window-plugins-download/releases/download/vai-studio-0.1.0/ai-studio-0.1.0-windows.zip",
+          "sha256": "512c4ceb66c85b83125442dc31ea3878d644daba5caaaaf6e1cc184df8b43295",
+          "sizeBytes": 7514927
+        }
+      },
+      "displayMode": "default",
+      "commands": [
+        {
+          "id": "new-chat",
+          "title": "新建对话"
+        },
+        {
+          "id": "open-studio",
+          "title": "打开 AI Studio"
+        },
+        {
+          "id": "provider-settings",
+          "title": "模型提供商设置"
+        },
+        {
+          "id": "open-settings",
+          "title": "打开设置"
         }
       ]
     }
