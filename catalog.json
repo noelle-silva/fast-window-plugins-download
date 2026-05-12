@@ -1,6 +1,6 @@
 {
   "catalogVersion": 2,
-  "generatedAt": "2026-05-12T18:57:02.296Z",
+  "generatedAt": "2026-05-12T19:02:18.887Z",
   "apps": [
     {
       "id": "clipboard-history",
@@ -130,16 +130,16 @@
       "id": "ai-studio",
       "name": "AI Studio",
       "description": "多供应商与角色系统的 v5 AI Studio 应用",
-      "version": "0.1.1",
+      "version": "0.1.2",
       "icon": {
         "type": "emoji",
         "value": "🧠"
       },
       "platforms": {
         "windows": {
-          "downloadUrl": "https://github.com/noelle-silva/fast-window-plugins-download/releases/download/vai-studio-0.1.1/ai-studio-0.1.1-windows.zip",
-          "sha256": "8980b47c105374a4b0fdbacae00a61349517c372397c8dae7554490043456ce1",
-          "sizeBytes": 7528654
+          "downloadUrl": "https://github.com/noelle-silva/fast-window-plugins-download/releases/download/vai-studio-0.1.2/ai-studio-0.1.2-windows.zip",
+          "sha256": "59066658367ac60f9d4dbebe4982950c2d7bfa7647567d1b430eb6f8bddbc7bf",
+          "sizeBytes": 7541901
         }
       },
       "displayMode": "default",
