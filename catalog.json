@@ -1,6 +1,6 @@
 {
   "catalogVersion": 2,
-  "generatedAt": "2026-05-12T06:59:32.710Z",
+  "generatedAt": "2026-05-12T07:02:02.285Z",
   "apps": [
     {
       "id": "clipboard-history",
@@ -134,16 +134,16 @@
       "id": "hypercortex",
       "name": "HyperCortex",
       "description": "HyperCortex v5 知识库、笔记与附件工作台",
-      "version": "0.1.0",
+      "version": "0.1.1",
       "icon": {
         "type": "emoji",
         "value": "🧬"
       },
       "platforms": {
         "windows": {
-          "downloadUrl": "https://github.com/noelle-silva/fast-window-plugins-download/releases/download/vhypercortex-0.1.0/hypercortex-0.1.0-windows.zip",
-          "sha256": "1acb479d86ff047a597eda1aa424f4e47d3f3617106ffe2ce9d90e2642792229",
-          "sizeBytes": 37719435
+          "downloadUrl": "https://github.com/noelle-silva/fast-window-plugins-download/releases/download/vhypercortex-0.1.1/hypercortex-0.1.1-windows.zip",
+          "sha256": "25d55592571559843d9873da864f1d3c40b8ccd9909f5a0a1dd43094060ea3c3",
+          "sizeBytes": 37734055
         }
       },
       "displayMode": "default",
