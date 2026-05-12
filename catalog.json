@@ -1,21 +1,21 @@
 {
   "catalogVersion": 2,
-  "generatedAt": "2026-05-10T20:53:51.033Z",
+  "generatedAt": "2026-05-12T06:55:05.321Z",
   "apps": [
     {
       "id": "clipboard-history",
       "name": "剪贴板历史",
       "description": "剪贴板历史 v5 canary 测试应用",
-      "version": "1.0.2",
+      "version": "1.0.3",
       "icon": {
         "type": "emoji",
         "value": "📋"
       },
       "platforms": {
         "windows": {
-          "downloadUrl": "https://github.com/noelle-silva/fast-window-plugins-download/releases/download/vclipboard-history-1.0.2/clipboard-history-1.0.2-windows.zip",
-          "sha256": "a3d78ffc386c44b970877c17cdc7e0354509e0fa08736aeb4a47b1d9f809bbe9",
-          "sizeBytes": 3333465
+          "downloadUrl": "https://github.com/noelle-silva/fast-window-plugins-download/releases/download/vclipboard-history-1.0.3/clipboard-history-1.0.3-windows.zip",
+          "sha256": "6c53471806c547f7508e5b3d3d31542ba186eefc5dd81e296a87ff9ec343f484",
+          "sizeBytes": 3354269
         }
       },
       "displayMode": "default",
