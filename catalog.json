@@ -1,6 +1,6 @@
 {
   "catalogVersion": 2,
-  "generatedAt": "2026-05-12T07:02:02.285Z",
+  "generatedAt": "2026-05-12T18:53:09.574Z",
   "apps": [
     {
       "id": "clipboard-history",
@@ -38,16 +38,16 @@
       "id": "ai-draw",
       "name": "AI Draw",
       "description": "AI 绘图 v5 应用，支持绘图供应商与设置入口",
-      "version": "0.1.1",
+      "version": "0.1.2",
       "icon": {
         "type": "emoji",
         "value": "🎨"
       },
       "platforms": {
         "windows": {
-          "downloadUrl": "https://github.com/noelle-silva/fast-window-plugins-download/releases/download/vai-draw-0.1.1/ai-draw-0.1.1-windows.zip",
-          "sha256": "e38fbb6ec007cfa2a124931b473691ebe27b5b4e54bcc2cf3c1faad649f52dd9",
-          "sizeBytes": 5974659
+          "downloadUrl": "https://github.com/noelle-silva/fast-window-plugins-download/releases/download/vai-draw-0.1.2/ai-draw-0.1.2-windows.zip",
+          "sha256": "556d1f6d47495ee175e69541034cd35e889ddf5fad3e21c217a3a0474fc11d74",
+          "sizeBytes": 5976283
         }
       },
       "displayMode": "default",
