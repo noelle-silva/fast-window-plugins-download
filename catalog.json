@@ -1,6 +1,6 @@
 {
   "catalogVersion": 2,
-  "generatedAt": "2026-05-12T18:54:40.131Z",
+  "generatedAt": "2026-05-12T18:57:02.296Z",
   "apps": [
     {
       "id": "clipboard-history",
@@ -31,6 +31,38 @@
         {
           "id": "settings",
           "title": "打开设置"
+        }
+      ]
+    },
+    {
+      "id": "folders",
+      "name": "文件夹收藏",
+      "description": "文件夹收藏 v5 应用，支持收藏文件夹、分组与桌面视图",
+      "version": "0.1.2",
+      "icon": {
+        "type": "emoji",
+        "value": "📁"
+      },
+      "platforms": {
+        "windows": {
+          "downloadUrl": "https://github.com/noelle-silva/fast-window-plugins-download/releases/download/vfolders-0.1.2/folders-0.1.2-windows.zip",
+          "sha256": "2e720c566dc4dbc835dfea3e82049495dd419f1d5806e39c8ce5e10f8ae2c702",
+          "sizeBytes": 6166299
+        }
+      },
+      "displayMode": "default",
+      "commands": [
+        {
+          "id": "open-settings",
+          "title": "打开文件夹收藏设置"
+        },
+        {
+          "id": "add-folder",
+          "title": "添加收藏文件夹"
+        },
+        {
+          "id": "open-folders",
+          "title": "打开文件夹收藏"
         }
       ]
     },
