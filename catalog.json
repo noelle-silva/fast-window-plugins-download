@@ -1,6 +1,6 @@
 {
   "catalogVersion": 2,
-  "generatedAt": "2026-05-14T14:58:56.079Z",
+  "generatedAt": "2026-05-14T15:01:48.935Z",
   "apps": [
     {
       "id": "clipboard-history",
@@ -30,6 +30,42 @@
         },
         {
           "id": "settings",
+          "title": "打开设置"
+        }
+      ]
+    },
+    {
+      "id": "bookmarks",
+      "name": "网站收藏",
+      "description": "网站收藏 v5 应用，支持收藏管理与设置入口",
+      "version": "0.1.2",
+      "icon": {
+        "type": "emoji",
+        "value": "🔖"
+      },
+      "platforms": {
+        "windows": {
+          "downloadUrl": "https://github.com/noelle-silva/fast-window-plugins-download/releases/download/vbookmarks-0.1.2/bookmarks-0.1.2-windows.zip",
+          "sha256": "bbc1a6c5d96b8fb8434bcd338278a0d48c0b6bd60630decdf58f3352ce2b404f",
+          "sizeBytes": 5618690
+        }
+      },
+      "displayMode": "default",
+      "commands": [
+        {
+          "id": "add",
+          "title": "新增收藏"
+        },
+        {
+          "id": "new",
+          "title": "新建收藏"
+        },
+        {
+          "id": "new-bookmark",
+          "title": "新建网站收藏"
+        },
+        {
+          "id": "open-settings",
           "title": "打开设置"
         }
       ]
