@@ -1,6 +1,6 @@
 {
   "catalogVersion": 2,
-  "generatedAt": "2026-05-14T17:34:18.676Z",
+  "generatedAt": "2026-05-14T17:35:37.859Z",
   "apps": [
     {
       "id": "clipboard-history",
@@ -98,16 +98,16 @@
       "id": "ai-once",
       "name": "AI Once",
       "description": "一次性 AI 提问与 Prompt 工作流 v5 应用",
-      "version": "0.1.2",
+      "version": "0.1.3",
       "icon": {
         "type": "emoji",
         "value": "⚡"
       },
       "platforms": {
         "windows": {
-          "downloadUrl": "https://github.com/noelle-silva/fast-window-plugins-download/releases/download/vai-once-0.1.2/ai-once-0.1.2-windows.zip",
-          "sha256": "56128a3afa16eab0982a235c4619483fe26a56384d07d04538c587406a6a6413",
-          "sizeBytes": 5764756
+          "downloadUrl": "https://github.com/noelle-silva/fast-window-plugins-download/releases/download/vai-once-0.1.3/ai-once-0.1.3-windows.zip",
+          "sha256": "0141a8f23977714e61cb3f2a0681dadeb879dc8a5da873ce82e9eadd85c1be96",
+          "sizeBytes": 5761834
         }
       },
       "displayMode": "default",
