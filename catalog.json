@@ -1,6 +1,6 @@
 {
   "catalogVersion": 2,
-  "generatedAt": "2026-05-14T17:39:40.599Z",
+  "generatedAt": "2026-05-16T20:16:12.440Z",
   "apps": [
     {
       "id": "clipboard-history",
@@ -130,16 +130,16 @@
       "id": "ai-studio",
       "name": "AI Studio",
       "description": "多供应商与角色系统的 v5 AI Studio 应用",
-      "version": "0.1.5",
+      "version": "0.1.6",
       "icon": {
-        "type": "emoji",
-        "value": "🧠"
+        "type": "data",
+        "dataUrl": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA2NCA2NCIgcm9sZT0iaW1nIiBhcmlhLWxhYmVsPSJBSSBDaGF0Ij4NCiAgPHBhdGgNCiAgICBkPSJNMjAgMTJoMjRjOC4yODQgMCAxNSA2LjcxNiAxNSAxNXYzYzAgOC4yODQtNi43MTYgMTUtMTUgMTVIMzEuNUwyMiA1NXYtMTBoLTJjLTguMjg0IDAtMTUtNi43MTYtMTUtMTV2LTNjMC04LjI4NCA2LjcxNi0xNSAxNS0xNVoiDQogICAgZmlsbD0iI0Q5QTNCMyINCiAgLz4NCiAgPGNpcmNsZSBjeD0iMjYiIGN5PSIyOSIgcj0iMyIgZmlsbD0iI0ZGRkZGRiIgLz4NCiAgPGNpcmNsZSBjeD0iMzQiIGN5PSIyOSIgcj0iMyIgZmlsbD0iI0ZGRkZGRiIgLz4NCiAgPGNpcmNsZSBjeD0iNDIiIGN5PSIyOSIgcj0iMyIgZmlsbD0iI0ZGRkZGRiIgLz4NCjwvc3ZnPg0K"
       },
       "platforms": {
         "windows": {
-          "downloadUrl": "https://github.com/noelle-silva/fast-window-plugins-download/releases/download/vai-studio-0.1.5/ai-studio-0.1.5-windows.zip",
-          "sha256": "6ce0e4dfc9ad746e0583607cc1608adf83b021222bb0e73df98968c5d09d7627",
-          "sizeBytes": 7528041
+          "downloadUrl": "https://github.com/noelle-silva/fast-window-plugins-download/releases/download/vai-studio-0.1.6/ai-studio-0.1.6-windows.zip",
+          "sha256": "be3b56348a35277a782b07be43e217de4e60cd93e2afae0ffa752a3d5e0a321b",
+          "sizeBytes": 7546702
         }
       },
       "displayMode": "default",
