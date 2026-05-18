@@ -1,6 +1,6 @@
 {
   "catalogVersion": 2,
-  "generatedAt": "2026-05-18T15:10:49.815Z",
+  "generatedAt": "2026-05-18T15:22:14.586Z",
   "apps": [
     {
       "id": "clipboard-history",
@@ -98,16 +98,16 @@
       "id": "ai-once",
       "name": "AI Once",
       "description": "一次性 AI 提问与 Prompt 工作流 v5 应用",
-      "version": "0.1.3",
+      "version": "0.1.4",
       "icon": {
-        "type": "emoji",
-        "value": "⚡"
+        "type": "data",
+        "dataUrl": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA2NCA2NCIgcm9sZT0iaW1nIiBhcmlhLWxhYmVsPSJBSSBPbmNlIj4NCiAgPHJlY3QgeD0iNiIgeT0iNiIgd2lkdGg9IjUyIiBoZWlnaHQ9IjUyIiByeD0iMTQiIGZpbGw9IiNBOUQ5QzkiIC8+DQogIDxnIGZpbGw9Im5vbmUiIHN0cm9rZT0iI0ZGRkZGRiIgc3Ryb2tlLXdpZHRoPSI0IiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiPg0KICAgIDxwYXRoIGQ9Ik0zMiAxNHY2IiAvPg0KICAgIDxwYXRoIGQ9Ik0yOCAxNGg4IiAvPg0KICAgIDxyZWN0IHg9IjE4IiB5PSIyMiIgd2lkdGg9IjI4IiBoZWlnaHQ9IjI0IiByeD0iOCIgLz4NCiAgICA8cGF0aCBkPSJNMjQgMzBoMCIgLz4NCiAgICA8cGF0aCBkPSJNNDAgMzBoMCIgLz4NCiAgICA8cGF0aCBkPSJNMjYgNDBoMTIiIC8+DQogIDwvZz4NCiAgPGcgZmlsbD0iI0ZGRkZGRiI+DQogICAgPGNpcmNsZSBjeD0iMjQiIGN5PSIzMCIgcj0iMi41IiAvPg0KICAgIDxjaXJjbGUgY3g9IjQwIiBjeT0iMzAiIHI9IjIuNSIgLz4NCiAgPC9nPg0KPC9zdmc+DQo="
       },
       "platforms": {
         "windows": {
-          "downloadUrl": "https://github.com/noelle-silva/fast-window-plugins-download/releases/download/vai-once-0.1.3/ai-once-0.1.3-windows.zip",
-          "sha256": "0141a8f23977714e61cb3f2a0681dadeb879dc8a5da873ce82e9eadd85c1be96",
-          "sizeBytes": 5761834
+          "downloadUrl": "https://github.com/noelle-silva/fast-window-plugins-download/releases/download/vai-once-0.1.4/ai-once-0.1.4-windows.zip",
+          "sha256": "383e29f75b92648c8df7c570ed359a0d90f036bc1fed37c77b7a80ae673012a9",
+          "sizeBytes": 5763961
         }
       },
       "displayMode": "default",
