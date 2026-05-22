@@ -1,6 +1,6 @@
 {
   "catalogVersion": 2,
-  "generatedAt": "2026-05-22T09:52:59.700Z",
+  "generatedAt": "2026-05-22T10:02:34.705Z",
   "apps": [
     {
       "id": "clipboard-history",
@@ -484,5 +484,18 @@
         "tauri:plugin_images_write_base64"
       ]
     }
-  ]
+  ],
+  "host": {
+    "id": "fast-window",
+    "name": "Fast Window",
+    "version": "1.8.3",
+    "platforms": {
+      "windows": {
+        "installerType": "msi",
+        "downloadUrl": "https://github.com/noelle-silva/fast-window/releases/download/vhost-1.8.3/fast-window-1.8.3-windows-x64.msi",
+        "sha256": "2b648d4f883945bafcb2d174e6f174c010440536c0424f1cf735f72376f369ce",
+        "sizeBytes": 3534848
+      }
+    }
+  }
 }
