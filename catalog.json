@@ -1,36 +1,28 @@
 {
   "catalogVersion": 2,
-  "generatedAt": "2026-05-21T17:35:07.232Z",
+  "generatedAt": "2026-05-22T09:52:59.700Z",
   "apps": [
     {
       "id": "clipboard-history",
       "name": "剪贴板历史",
       "description": "剪贴板历史 v5 canary 测试应用",
-      "version": "1.0.8",
+      "version": "1.0.9",
       "icon": {
         "type": "data",
         "dataUrl": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA2NCA2NCIgcm9sZT0iaW1nIiBhcmlhLWxhYmVsPSJDbGlwYm9hcmQgSGlzdG9yeSI+DQogIDxyZWN0IHg9IjYiIHk9IjYiIHdpZHRoPSI1MiIgaGVpZ2h0PSI1MiIgcng9IjE0IiBmaWxsPSIjQTlEM0Q5IiAvPg0KICA8ZyBmaWxsPSJub25lIiBzdHJva2U9IiNGRkZGRkYiIHN0cm9rZS13aWR0aD0iNCIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj4NCiAgICA8cGF0aCBkPSJNMjYgMThoMTIiIC8+DQogICAgPHBhdGggZD0iTTI2IDE0aDEydjZIMjZ6IiAvPg0KICAgIDxwYXRoIGQ9Ik0yMiAyMHYzMGgyMFYyMCIgLz4NCiAgICA8cGF0aCBkPSJNMjYgMzBoMTIiIC8+DQogICAgPHBhdGggZD0iTTI2IDM4aDEwIiAvPg0KICA8L2c+DQo8L3N2Zz4NCg=="
       },
       "platforms": {
         "windows": {
-          "downloadUrl": "https://github.com/noelle-silva/fast-window-plugins-download/releases/download/vclipboard-history-1.0.8/clipboard-history-1.0.8-windows.zip",
-          "sha256": "41ae1859529179f3ee4d74f2d18716ea42841344b2b37b66552b47a16ff1992e",
-          "sizeBytes": 3531118
+          "downloadUrl": "https://github.com/noelle-silva/fast-window-plugins-download/releases/download/vclipboard-history-1.0.9/clipboard-history-1.0.9-windows.zip",
+          "sha256": "351b0c0d6463bc896c40b082891f888a78332db741e598b6b5174c1c9fe877fd",
+          "sizeBytes": 3545355
         }
       },
       "displayMode": "default",
       "commands": [
         {
-          "id": "open",
-          "title": "打开剪贴板历史"
-        },
-        {
           "id": "folders",
           "title": "打开收藏夹"
-        },
-        {
-          "id": "settings",
-          "title": "打开设置"
         }
       ]
     },
@@ -492,18 +484,5 @@
         "tauri:plugin_images_write_base64"
       ]
     }
-  ],
-  "host": {
-    "id": "fast-window",
-    "name": "Fast Window",
-    "version": "1.8.2",
-    "platforms": {
-      "windows": {
-        "installerType": "msi",
-        "downloadUrl": "https://github.com/noelle-silva/fast-window/releases/download/vhost-1.8.2/fast-window-1.8.2-windows-x64.msi",
-        "sha256": "2108ad9163af5d6ff9c55c29424fc8264e2c55b2f467a70e7587c205293d94de",
-        "sizeBytes": 3514368
-      }
-    }
-  }
+  ]
 }
