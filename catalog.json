@@ -1,6 +1,6 @@
 {
   "catalogVersion": 2,
-  "generatedAt": "2026-05-22T10:18:50.619Z",
+  "generatedAt": "2026-05-22T10:30:33.239Z",
   "apps": [
     {
       "id": "clipboard-history",
@@ -30,16 +30,16 @@
       "id": "folders",
       "name": "收藏集",
       "description": "收藏集 v5 应用，支持收藏文件夹、网址、文件、分组与桌面视图",
-      "version": "0.1.8",
+      "version": "0.1.9",
       "icon": {
         "type": "data",
         "dataUrl": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA2NCA2NCIgcm9sZT0iaW1nIiBhcmlhLWxhYmVsPSJGb2xkZXJzIj4NCiAgPHJlY3QgeD0iNiIgeT0iNiIgd2lkdGg9IjUyIiBoZWlnaHQ9IjUyIiByeD0iMTQiIGZpbGw9IiNEOUMwQTkiIC8+DQogIDxnIGZpbGw9Im5vbmUiIHN0cm9rZT0iI0ZGRkZGRiIgc3Ryb2tlLXdpZHRoPSI0IiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiPg0KICAgIDxwYXRoIGQ9Ik0xNiAyNGgxNGw0IDRoMTR2MjJIMTZ6IiAvPg0KICAgIDxwYXRoIGQ9Ik0xNiAyNHYtNGgxNGw0IDQiIC8+DQogIDwvZz4NCjwvc3ZnPg0K"
       },
       "platforms": {
         "windows": {
-          "downloadUrl": "https://github.com/noelle-silva/fast-window-plugins-download/releases/download/vfolders-0.1.8/folders-0.1.8-windows.zip",
-          "sha256": "960e8fb541a6a90ad62a35b10645eab8751dbe3ef7a78d7453c430dfff89701b",
-          "sizeBytes": 6200273
+          "downloadUrl": "https://github.com/noelle-silva/fast-window-plugins-download/releases/download/vfolders-0.1.9/folders-0.1.9-windows.zip",
+          "sha256": "1b4633a7923076d2e50f94336d80b8c8ddb7f3011df33c27bc64216002756d11",
+          "sizeBytes": 6223291
         }
       },
       "displayMode": "default",
@@ -484,18 +484,5 @@
         "tauri:plugin_images_write_base64"
       ]
     }
-  ],
-  "host": {
-    "id": "fast-window",
-    "name": "Fast Window",
-    "version": "1.8.4",
-    "platforms": {
-      "windows": {
-        "installerType": "msi",
-        "downloadUrl": "https://github.com/noelle-silva/fast-window/releases/download/vhost-1.8.4/fast-window-1.8.4-windows-x64.msi",
-        "sha256": "91275e185bb46707f3ac174e45916157db99ffe84a2ea15ee17a7d2b67f40138",
-        "sizeBytes": 3534848
-      }
-    }
-  }
+  ]
 }
