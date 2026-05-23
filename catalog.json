@@ -1,6 +1,6 @@
 {
   "catalogVersion": 2,
-  "generatedAt": "2026-05-23T02:52:35.701Z",
+  "generatedAt": "2026-05-23T03:17:02.831Z",
   "apps": [
     {
       "id": "clipboard-history",
@@ -484,5 +484,18 @@
         "tauri:plugin_images_write_base64"
       ]
     }
-  ]
+  ],
+  "host": {
+    "id": "fast-window",
+    "name": "Fast Window",
+    "version": "1.8.5",
+    "platforms": {
+      "windows": {
+        "installerType": "msi",
+        "downloadUrl": "https://github.com/noelle-silva/fast-window/releases/download/vhost-1.8.5/fast-window-1.8.5-windows-x64.msi",
+        "sha256": "6f63e4a6cb64f2903ec74749af5d222435d4edc388b627a3d4f3b119c65e49fe",
+        "sizeBytes": 3547136
+      }
+    }
+  }
 }
