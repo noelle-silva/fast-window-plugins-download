@@ -1,6 +1,6 @@
 {
   "catalogVersion": 2,
-  "generatedAt": "2026-05-23T03:17:02.831Z",
+  "generatedAt": "2026-05-25T19:00:21.907Z",
   "apps": [
     {
       "id": "clipboard-history",
@@ -158,16 +158,16 @@
       "id": "hypercortex",
       "name": "HyperCortex",
       "description": "HyperCortex v5 知识库、笔记与附件工作台",
-      "version": "0.1.13",
+      "version": "0.1.14",
       "icon": {
         "type": "data",
         "dataUrl": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI2NCIgaGVpZ2h0PSI2NCIgdmlld0JveD0iMCAwIDY0IDY0Ij4NCiAgPHJlY3QgeD0iNiIgeT0iOCIgd2lkdGg9IjUyIiBoZWlnaHQ9IjQ4IiByeD0iMTAiIGZpbGw9IiMxMTE4MjciLz4NCiAgPHBhdGggZD0iTTE4IDIyaDI4TTE4IDMyaDIyTTE4IDQyaDI2IiBzdHJva2U9IiNFNUU3RUIiIHN0cm9rZS13aWR0aD0iNCIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIi8+DQogIDxjaXJjbGUgY3g9IjQ4IiBjeT0iMTgiIHI9IjYiIGZpbGw9IiNGNTlFMEIiLz4NCjwvc3ZnPg0K"
       },
       "platforms": {
         "windows": {
-          "downloadUrl": "https://github.com/noelle-silva/fast-window-plugins-download/releases/download/vhypercortex-0.1.13/hypercortex-0.1.13-windows.zip",
-          "sha256": "86f488552821fbc0398cab767efae20ca00a1ad5edba56b3958cb82594ebeb54",
-          "sizeBytes": 37895266
+          "downloadUrl": "https://github.com/noelle-silva/fast-window-plugins-download/releases/download/vhypercortex-0.1.14/hypercortex-0.1.14-windows.zip",
+          "sha256": "5d7fcfcb9645ae2b67c09b43042ceb1c0715396114f5b3acd22181a021644660",
+          "sizeBytes": 40103472
         }
       },
       "displayMode": "default",
@@ -484,18 +484,5 @@
         "tauri:plugin_images_write_base64"
       ]
     }
-  ],
-  "host": {
-    "id": "fast-window",
-    "name": "Fast Window",
-    "version": "1.8.5",
-    "platforms": {
-      "windows": {
-        "installerType": "msi",
-        "downloadUrl": "https://github.com/noelle-silva/fast-window/releases/download/vhost-1.8.5/fast-window-1.8.5-windows-x64.msi",
-        "sha256": "6f63e4a6cb64f2903ec74749af5d222435d4edc388b627a3d4f3b119c65e49fe",
-        "sizeBytes": 3547136
-      }
-    }
-  }
+  ]
 }
