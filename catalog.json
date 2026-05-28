@@ -1,6 +1,6 @@
 {
   "catalogVersion": 2,
-  "generatedAt": "2026-05-28T17:02:23.807Z",
+  "generatedAt": "2026-05-28T17:08:17.131Z",
   "host": {
     "id": "fast-window",
     "name": "Fast Window",
@@ -135,16 +135,16 @@
       "id": "ai-studio",
       "name": "AI Studio",
       "description": "多供应商与角色系统的 v5 AI Studio 应用",
-      "version": "0.1.8",
+      "version": "0.1.9",
       "icon": {
         "type": "data",
         "dataUrl": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA2NCA2NCIgcm9sZT0iaW1nIiBhcmlhLWxhYmVsPSJBSSBDaGF0Ij4NCiAgPHBhdGgNCiAgICBkPSJNMjAgMTJoMjRjOC4yODQgMCAxNSA2LjcxNiAxNSAxNXYzYzAgOC4yODQtNi43MTYgMTUtMTUgMTVIMzEuNUwyMiA1NXYtMTBoLTJjLTguMjg0IDAtMTUtNi43MTYtMTUtMTV2LTNjMC04LjI4NCA2LjcxNi0xNSAxNS0xNVoiDQogICAgZmlsbD0iI0Q5QTNCMyINCiAgLz4NCiAgPGNpcmNsZSBjeD0iMjYiIGN5PSIyOSIgcj0iMyIgZmlsbD0iI0ZGRkZGRiIgLz4NCiAgPGNpcmNsZSBjeD0iMzQiIGN5PSIyOSIgcj0iMyIgZmlsbD0iI0ZGRkZGRiIgLz4NCiAgPGNpcmNsZSBjeD0iNDIiIGN5PSIyOSIgcj0iMyIgZmlsbD0iI0ZGRkZGRiIgLz4NCjwvc3ZnPg0K"
       },
       "platforms": {
         "windows": {
-          "downloadUrl": "https://github.com/noelle-silva/fast-window-plugins-download/releases/download/vai-studio-0.1.8/ai-studio-0.1.8-windows.zip",
-          "sha256": "5f4d9e6dcfd90fd7a3b1f7e0b96b9aea54df92ef1abc55f29744e324b1e3d48a",
-          "sizeBytes": 7546775
+          "downloadUrl": "https://github.com/noelle-silva/fast-window-plugins-download/releases/download/vai-studio-0.1.9/ai-studio-0.1.9-windows.zip",
+          "sha256": "c2494b5d3602d8112aa25055a39fad02773670aa233fa752d788590d427935c6",
+          "sizeBytes": 7547394
         }
       },
       "displayMode": "default",
