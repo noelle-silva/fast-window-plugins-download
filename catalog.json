@@ -1,6 +1,19 @@
 {
   "catalogVersion": 2,
-  "generatedAt": "2026-05-28T08:46:16.387Z",
+  "generatedAt": "2026-05-28T15:15:54.570Z",
+  "host": {
+    "id": "fast-window",
+    "name": "Fast Window",
+    "version": "1.8.6",
+    "platforms": {
+      "windows": {
+        "installerType": "msi",
+        "downloadUrl": "https://github.com/noelle-silva/fast-window/releases/download/vhost-1.8.6/fast-window-1.8.6-windows-x64.msi",
+        "sha256": "e8733a0a183f3533e18d73f1385bf3936d639ea78114d056ecab8755293ef61f",
+        "sizeBytes": 3547136
+      }
+    }
+  },
   "apps": [
     {
       "id": "clipboard-history",
