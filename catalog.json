@@ -1,6 +1,6 @@
 {
   "catalogVersion": 2,
-  "generatedAt": "2026-05-27T18:33:55.606Z",
+  "generatedAt": "2026-05-28T05:42:58.893Z",
   "apps": [
     {
       "id": "clipboard-history",
@@ -30,16 +30,16 @@
       "id": "folders",
       "name": "收藏集",
       "description": "收藏集 v5 应用，支持收藏文件夹、网址、文件、分组与桌面视图",
-      "version": "0.1.9",
+      "version": "0.1.10",
       "icon": {
         "type": "data",
         "dataUrl": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA2NCA2NCIgcm9sZT0iaW1nIiBhcmlhLWxhYmVsPSJGb2xkZXJzIj4NCiAgPHJlY3QgeD0iNiIgeT0iNiIgd2lkdGg9IjUyIiBoZWlnaHQ9IjUyIiByeD0iMTQiIGZpbGw9IiNEOUMwQTkiIC8+DQogIDxnIGZpbGw9Im5vbmUiIHN0cm9rZT0iI0ZGRkZGRiIgc3Ryb2tlLXdpZHRoPSI0IiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiPg0KICAgIDxwYXRoIGQ9Ik0xNiAyNGgxNGw0IDRoMTR2MjJIMTZ6IiAvPg0KICAgIDxwYXRoIGQ9Ik0xNiAyNHYtNGgxNGw0IDQiIC8+DQogIDwvZz4NCjwvc3ZnPg0K"
       },
       "platforms": {
         "windows": {
-          "downloadUrl": "https://github.com/noelle-silva/fast-window-plugins-download/releases/download/vfolders-0.1.9/folders-0.1.9-windows.zip",
-          "sha256": "1b4633a7923076d2e50f94336d80b8c8ddb7f3011df33c27bc64216002756d11",
-          "sizeBytes": 6223291
+          "downloadUrl": "https://github.com/noelle-silva/fast-window-plugins-download/releases/download/vfolders-0.1.10/folders-0.1.10-windows.zip",
+          "sha256": "eb88036f01a8af12a0d598b039e1c7c1083dba4ad2946304ce3fbb36c9afb184",
+          "sizeBytes": 6224234
         }
       },
       "displayMode": "default",
