@@ -1,6 +1,6 @@
 {
   "catalogVersion": 2,
-  "generatedAt": "2026-05-29T18:23:29.616Z",
+  "generatedAt": "2026-05-30T06:38:23.430Z",
   "host": {
     "id": "fast-window",
     "name": "Fast Window",
@@ -75,16 +75,16 @@
       "id": "ai-draw",
       "name": "AI Draw",
       "description": "AI 绘图 v5 应用，支持绘图供应商与设置入口",
-      "version": "0.1.4",
+      "version": "0.1.5",
       "icon": {
         "type": "data",
         "dataUrl": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA2NCA2NCIgcm9sZT0iaW1nIiBhcmlhLWxhYmVsPSJBSSBEcmF3Ij4NCiAgPHJlY3QgeD0iNiIgeT0iNiIgd2lkdGg9IjUyIiBoZWlnaHQ9IjUyIiByeD0iMTQiIGZpbGw9IiNDMEE5RDkiIC8+DQogIDxnIGZpbGw9Im5vbmUiIHN0cm9rZT0iI0ZGRkZGRiIgc3Ryb2tlLXdpZHRoPSI0IiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiPg0KICAgIDxwYXRoIGQ9Ik0yMiA0MmwyMi0yMiA2IDYtMjIgMjJIMjJ6IiAvPg0KICAgIDxwYXRoIGQ9Ik0zOCAxOGw4IDgiIC8+DQogICAgPHBhdGggZD0iTTIyIDQybDEwLTItOC04LTIgMTB6IiAvPg0KICA8L2c+DQo8L3N2Zz4NCg=="
       },
       "platforms": {
         "windows": {
-          "downloadUrl": "https://github.com/noelle-silva/fast-window-plugins-download/releases/download/vai-draw-0.1.4/ai-draw-0.1.4-windows.zip",
-          "sha256": "c932ef4713e1ec0a4486d6b41b0d9c7aa40e1844feed46371b7ae0743f51ce74",
-          "sizeBytes": 6189110
+          "downloadUrl": "https://github.com/noelle-silva/fast-window-plugins-download/releases/download/vai-draw-0.1.5/ai-draw-0.1.5-windows.zip",
+          "sha256": "68bb9a3db6cd0e601530490d049c90024d83c7e273d7a7406d334c8f7b45cf13",
+          "sizeBytes": 6206180
         }
       },
       "displayMode": "default",
