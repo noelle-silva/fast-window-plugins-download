@@ -1,6 +1,6 @@
 {
   "catalogVersion": 2,
-  "generatedAt": "2026-06-02T16:36:49.399Z",
+  "generatedAt": "2026-06-02T16:55:05.895Z",
   "host": {
     "id": "fast-window",
     "name": "Fast Window",
@@ -171,16 +171,16 @@
       "id": "everything",
       "name": "Everything",
       "description": "Fast Window v5 Everything 搜索应用",
-      "version": "0.1.1",
+      "version": "0.1.2",
       "icon": {
         "type": "data",
-        "dataUrl": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMjggMTI4IiByb2xlPSJpbWciIGFyaWEtbGFiZWw9IkV2ZXJ5dGhpbmciPgogIDxkZWZzPgogICAgPGxpbmVhckdyYWRpZW50IGlkPSJiZyIgeDE9IjE4IiB5MT0iMTIiIHgyPSIxMTIiIHkyPSIxMTgiIGdyYWRpZW50VW5pdHM9InVzZXJTcGFjZU9uVXNlIj4KICAgICAgPHN0b3Agc3RvcC1jb2xvcj0iIzA2YjZkNCIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjAuNTIiIHN0b3AtY29sb3I9IiMyNTYzZWIiLz4KICAgICAgPHN0b3Agb2Zmc2V0PSIxIiBzdG9wLWNvbG9yPSIjMWUxYjRiIi8+CiAgICA8L2xpbmVhckdyYWRpZW50PgogICAgPHJhZGlhbEdyYWRpZW50IGlkPSJnbG93IiBjeD0iMCIgY3k9IjAiIHI9IjEiIGdyYWRpZW50VW5pdHM9InVzZXJTcGFjZU9uVXNlIiBncmFkaWVudFRyYW5zZm9ybT0idHJhbnNsYXRlKDQyIDM0KSByb3RhdGUoNDgpIHNjYWxlKDc4KSI+CiAgICAgIDxzdG9wIHN0b3AtY29sb3I9IiNmZmZmZmYiIHN0b3Atb3BhY2l0eT0iMC43MiIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjEiIHN0b3AtY29sb3I9IiNmZmZmZmYiIHN0b3Atb3BhY2l0eT0iMCIvPgogICAgPC9yYWRpYWxHcmFkaWVudD4KICA8L2RlZnM+CiAgPHJlY3QgeD0iMTAiIHk9IjEwIiB3aWR0aD0iMTA4IiBoZWlnaHQ9IjEwOCIgcng9IjMwIiBmaWxsPSJ1cmwoI2JnKSIvPgogIDxyZWN0IHg9IjEwIiB5PSIxMCIgd2lkdGg9IjEwOCIgaGVpZ2h0PSIxMDgiIHJ4PSIzMCIgZmlsbD0idXJsKCNnbG93KSIvPgogIDxjaXJjbGUgY3g9IjU3IiBjeT0iNTYiIHI9IjI3IiBmaWxsPSJub25lIiBzdHJva2U9IiNlY2ZlZmYiIHN0cm9rZS13aWR0aD0iMTEiLz4KICA8cGF0aCBkPSJtNzggNzcgMjIgMjIiIHN0cm9rZT0iI2VjZmVmZiIgc3Ryb2tlLXdpZHRoPSIxMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIi8+CiAgPHBhdGggZD0iTTQwIDUxaDM0TTQwIDY0aDI2IiBzdHJva2U9IiNhNWYzZmMiIHN0cm9rZS13aWR0aD0iNyIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIi8+CiAgPGNpcmNsZSBjeD0iOTIiIGN5PSIzNCIgcj0iNyIgZmlsbD0iIzIyYzU1ZSIvPgo8L3N2Zz4K"
+        "dataUrl": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMjggMTI4IiByb2xlPSJpbWciIGFyaWEtbGFiZWw9IkV2ZXJ5dGhpbmciPgogIDxyZWN0IHdpZHRoPSIxMjgiIGhlaWdodD0iMTI4IiByeD0iMzAiIGZpbGw9IiNmZmZmZmYiLz4KICA8Y2lyY2xlIGN4PSI1NyIgY3k9IjU2IiByPSIyNiIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjZjk3MzE2IiBzdHJva2Utd2lkdGg9IjEyIi8+CiAgPHBhdGggZD0ibTc4IDc3IDIzIDIzIiBmaWxsPSJub25lIiBzdHJva2U9IiNmOTczMTYiIHN0cm9rZS13aWR0aD0iMTMiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIvPgo8L3N2Zz4K"
       },
       "platforms": {
         "windows": {
-          "downloadUrl": "https://github.com/noelle-silva/fast-window-plugins-download/releases/download/veverything-0.1.1/everything-0.1.1-windows.zip",
-          "sha256": "25536f038001740584bdbff0b131f03729bbc18fd957cb75780cb3d43498bbd3",
-          "sizeBytes": 6614263
+          "downloadUrl": "https://github.com/noelle-silva/fast-window-plugins-download/releases/download/veverything-0.1.2/everything-0.1.2-windows.zip",
+          "sha256": "1e7caabb0be2bf16a8a0c05a011b5cb600ddfdfd4450cb5dca39af1bd64026be",
+          "sizeBytes": 6597368
         }
       },
       "displayMode": "default",
