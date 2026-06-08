@@ -1,6 +1,6 @@
 {
   "catalogVersion": 2,
-  "generatedAt": "2026-06-08T11:22:39.963Z",
+  "generatedAt": "2026-06-08T15:00:46.120Z",
   "host": {
     "id": "fast-window",
     "name": "Fast Window",
@@ -203,16 +203,16 @@
       "id": "hypercortex",
       "name": "HyperCortex",
       "description": "HyperCortex v5 知识库、笔记与附件工作台",
-      "version": "0.1.17",
+      "version": "0.1.18",
       "icon": {
         "type": "data",
         "dataUrl": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI2NCIgaGVpZ2h0PSI2NCIgdmlld0JveD0iMCAwIDY0IDY0Ij4NCiAgPHJlY3QgeD0iNiIgeT0iOCIgd2lkdGg9IjUyIiBoZWlnaHQ9IjQ4IiByeD0iMTAiIGZpbGw9IiMxMTE4MjciLz4NCiAgPHBhdGggZD0iTTE4IDIyaDI4TTE4IDMyaDIyTTE4IDQyaDI2IiBzdHJva2U9IiNFNUU3RUIiIHN0cm9rZS13aWR0aD0iNCIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIi8+DQogIDxjaXJjbGUgY3g9IjQ4IiBjeT0iMTgiIHI9IjYiIGZpbGw9IiNGNTlFMEIiLz4NCjwvc3ZnPg0K"
       },
       "platforms": {
         "windows": {
-          "downloadUrl": "https://github.com/noelle-silva/fast-window-plugins-download/releases/download/vhypercortex-0.1.17/hypercortex-0.1.17-windows.zip",
-          "sha256": "df804653821ef42963027ce3600321ddf96c520a3644ab966ccb791dd770f0e8",
-          "sizeBytes": 40123661
+          "downloadUrl": "https://github.com/noelle-silva/fast-window-plugins-download/releases/download/vhypercortex-0.1.18/hypercortex-0.1.18-windows.zip",
+          "sha256": "52bf6170c5a8287697003c3bfb4258388c0ca3f9e9526732aad7026bbf641d63",
+          "sizeBytes": 40118268
         }
       },
       "displayMode": "default",
