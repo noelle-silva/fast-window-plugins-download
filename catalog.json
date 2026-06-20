@@ -1,6 +1,6 @@
 {
   "catalogVersion": 2,
-  "generatedAt": "2026-06-20T15:19:57.676Z",
+  "generatedAt": "2026-06-20T15:54:52.843Z",
   "host": {
     "id": "fast-window",
     "name": "Fast Window",
@@ -236,6 +236,34 @@
         {
           "id": "open-assets",
           "title": "打开附件库"
+        }
+      ]
+    },
+    {
+      "id": "quick-bar",
+      "name": "Quick Bar",
+      "description": "划词助手 - 选中文字后弹出快捷操作浮动工具栏",
+      "version": "0.1.1",
+      "icon": {
+        "type": "data",
+        "dataUrl": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMjggMTI4IiByb2xlPSJpbWciIGFyaWEtbGFiZWw9IlF1aWNrIEJhciI+CiAgPGRlZnM+CiAgICA8bGluZWFyR3JhZGllbnQgaWQ9ImJnIiB4MT0iMjAiIHkxPSIxNCIgeDI9IjEwOCIgeTI9IjExNiIgZ3JhZGllbnRVbml0cz0idXNlclNwYWNlT25Vc2UiPgogICAgICA8c3RvcCBzdG9wLWNvbG9yPSIjZjRmMGU2Ii8+CiAgICAgIDxzdG9wIG9mZnNldD0iMC41NiIgc3RvcC1jb2xvcj0iI2RjZTdkYyIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjEiIHN0b3AtY29sb3I9IiNhOWJkYWQiLz4KICAgIDwvbGluZWFyR3JhZGllbnQ+CiAgICA8bGluZWFyR3JhZGllbnQgaWQ9ImNhcmQiIHgxPSIzMiIgeTE9IjM0IiB4Mj0iOTgiIHkyPSI5OCIgZ3JhZGllbnRVbml0cz0idXNlclNwYWNlT25Vc2UiPgogICAgICA8c3RvcCBzdG9wLWNvbG9yPSIjZmZmZGY3Ii8+CiAgICAgIDxzdG9wIG9mZnNldD0iMSIgc3RvcC1jb2xvcj0iI2VlZjNlYSIvPgogICAgPC9saW5lYXJHcmFkaWVudD4KICAgIDxmaWx0ZXIgaWQ9InNoYWRvdyIgeD0iMTIiIHk9IjE0IiB3aWR0aD0iMTA0IiBoZWlnaHQ9IjEwNCIgY29sb3ItaW50ZXJwb2xhdGlvbi1maWx0ZXJzPSJzUkdCIiBmaWx0ZXJVbml0cz0idXNlclNwYWNlT25Vc2UiPgogICAgICA8ZmVEcm9wU2hhZG93IGR4PSIwIiBkeT0iNSIgc3RkRGV2aWF0aW9uPSI1IiBmbG9vZC1jb2xvcj0iIzRhNWQ0ZCIgZmxvb2Qtb3BhY2l0eT0iMC4xOCIvPgogICAgPC9maWx0ZXI+CiAgPC9kZWZzPgogIDxyZWN0IHg9IjEwIiB5PSIxMCIgd2lkdGg9IjEwOCIgaGVpZ2h0PSIxMDgiIHJ4PSIzMCIgZmlsbD0idXJsKCNiZykiLz4KICA8cGF0aCBkPSJNMzAgMzVoNjhjNi4xIDAgMTEgNC45IDExIDExdjQzYzAgNi4xLTQuOSAxMS0xMSAxMUgzMGMtNi4xIDAtMTEtNC45LTExLTExVjQ2YzAtNi4xIDQuOS0xMSAxMS0xMVoiIGZpbGw9InVybCgjY2FyZCkiIGZpbHRlcj0idXJsKCNzaGFkb3cpIi8+CiAgPHBhdGggZD0iTTM0IDU0aDM5TTM0IDY4aDYwTTM0IDgyaDMxIiBzdHJva2U9IiM1MzZiNTgiIHN0cm9rZS13aWR0aD0iNyIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIi8+CiAgPHBhdGggZD0iTTc4IDUyaDE4djE4SDc4eiIgZmlsbD0iI2Q4ZTZkNyIvPgogIDxwYXRoIGQ9Ik04MiA1NmgxME04MiA2NmgxMCIgc3Ryb2tlPSIjNmY4YjcyIiBzdHJva2Utd2lkdGg9IjQiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIvPgogIDxwYXRoIGQ9Ik04MyA5MWwxMCAxMCAxOC0yMiIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjNmY4MjZiIiBzdHJva2Utd2lkdGg9IjgiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIvPgogIDxjaXJjbGUgY3g9Ijk4IiBjeT0iMzUiIHI9IjgiIGZpbGw9IiM3ZjlhODIiLz4KPC9zdmc+Cg=="
+      },
+      "platforms": {
+        "windows": {
+          "downloadUrl": "https://github.com/noelle-silva/fast-window-plugins-download/releases/download/vquick-bar-0.1.1/quick-bar-0.1.1-windows.zip",
+          "sha256": "cce214ea4258c2e3de11aa439a1080318985995a1d01dbb2ddcb6f2bbd353045",
+          "sizeBytes": 6799539
+        }
+      },
+      "displayMode": "default",
+      "commands": [
+        {
+          "id": "open-settings",
+          "title": "打开 Quick Bar 设置"
+        },
+        {
+          "id": "show-health",
+          "title": "查看健康状态"
         }
       ]
     }
