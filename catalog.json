@@ -1,6 +1,6 @@
 {
   "catalogVersion": 2,
-  "generatedAt": "2026-06-25T01:04:24.675Z",
+  "generatedAt": "2026-06-25T14:01:18.422Z",
   "host": {
     "id": "fast-window",
     "name": "Fast Window",
@@ -175,16 +175,16 @@
       "id": "everything",
       "name": "Everything",
       "description": "Fast Window v5 Everything 搜索应用",
-      "version": "0.1.4",
+      "version": "0.1.5",
       "icon": {
         "type": "data",
-        "dataUrl": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMjggMTI4IiByb2xlPSJpbWciIGFyaWEtbGFiZWw9IkV2ZXJ5dGhpbmciPgogIDxyZWN0IHdpZHRoPSIxMjgiIGhlaWdodD0iMTI4IiByeD0iMzAiIGZpbGw9IiNmZmZmZmYiLz4KICA8Y2lyY2xlIGN4PSI1NyIgY3k9IjU2IiByPSIyNiIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjZjk3MzE2IiBzdHJva2Utd2lkdGg9IjEyIi8+CiAgPHBhdGggZD0ibTc4IDc3IDIzIDIzIiBmaWxsPSJub25lIiBzdHJva2U9IiNmOTczMTYiIHN0cm9rZS13aWR0aD0iMTMiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIvPgo8L3N2Zz4K"
+        "dataUrl": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMjggMTI4IiByb2xlPSJpbWciIGFyaWEtbGFiZWw9IkV2ZXJ5dGhpbmciPg0KICA8cmVjdCB3aWR0aD0iMTI4IiBoZWlnaHQ9IjEyOCIgcng9IjMwIiBmaWxsPSIjZmZmZmZmIi8+DQogIDxjaXJjbGUgY3g9IjU3IiBjeT0iNTYiIHI9IjI2IiBmaWxsPSJub25lIiBzdHJva2U9IiNmOTczMTYiIHN0cm9rZS13aWR0aD0iMTIiLz4NCiAgPHBhdGggZD0ibTc4IDc3IDIzIDIzIiBmaWxsPSJub25lIiBzdHJva2U9IiNmOTczMTYiIHN0cm9rZS13aWR0aD0iMTMiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIvPg0KPC9zdmc+DQo="
       },
       "platforms": {
         "windows": {
-          "downloadUrl": "https://github.com/noelle-silva/fast-window-plugins-download/releases/download/veverything-0.1.4/everything-0.1.4-windows.zip",
-          "sha256": "e00e0ef0f14ba4c84e12e9d9529c73b2dc1958d2e4bff8dbfed0c59e9bd700f0",
-          "sizeBytes": 6598780
+          "downloadUrl": "https://github.com/noelle-silva/fast-window-plugins-download/releases/download/veverything-0.1.5/everything-0.1.5-windows.zip",
+          "sha256": "a02995615db9ab5887ec2b98e8012af5d2d720b115605afb715f2ed941b90804",
+          "sizeBytes": 6596490
         }
       },
       "displayMode": "default",
