@@ -1,6 +1,6 @@
 {
   "catalogVersion": 2,
-  "generatedAt": "2026-08-27T19:25:14.407Z",
+  "generatedAt": "2026-08-27T20:00:47.930Z",
   "host": {
     "id": "fast-window",
     "name": "Fast Window",
@@ -300,6 +300,38 @@
         {
           "id": "show-health",
           "title": "查看健康状态"
+        }
+      ]
+    },
+    {
+      "id": "webview",
+      "name": "webview",
+      "description": "Fast Window v5 独立 App：书签管理 + 内嵌浏览栈（网页窗口 + 视频倍速）",
+      "version": "0.1.3",
+      "icon": {
+        "type": "data",
+        "dataUrl": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA2NCA2NCIgcm9sZT0iaW1nIiBhcmlhLWxhYmVsPSJ3ZWJ2aWV3Ij4KICA8cmVjdCB4PSI2IiB5PSI2IiB3aWR0aD0iNTIiIGhlaWdodD0iNTIiIHJ4PSIxNCIgZmlsbD0iI0E5QzZFMCIgLz4KICA8ZyBmaWxsPSJub25lIiBzdHJva2U9IiNGRkZGRkYiIHN0cm9rZS13aWR0aD0iNCIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj4KICAgIDxyZWN0IHg9IjE2IiB5PSIxNCIgd2lkdGg9IjMyIiBoZWlnaHQ9IjM2IiByeD0iNyIgLz4KICAgIDxwYXRoIGQ9Ik0xNiAyNGgzMiIgLz4KICAgIDxjaXJjbGUgY3g9IjMyIiBjeT0iMzciIHI9IjciIC8+CiAgICA8cGF0aCBkPSJNMjUgMzdoMTRNMjkgMzEuNWExMCAxMCAwIDAgMCAwIDExTTM1IDMxLjVhMTAgMTAgMCAwIDEgMCAxMSIgLz4KICA8L2c+Cjwvc3ZnPgo="
+      },
+      "platforms": {
+        "windows": {
+          "downloadUrl": "https://github.com/noelle-silva/fast-window-plugins-download/releases/download/vwebview-0.1.3/webview-0.1.3-windows.zip",
+          "sha256": "77fce348f15e3da960d08965675bf9076d671b936eb19ded114799152d54dffe",
+          "sizeBytes": 6117208
+        }
+      },
+      "displayMode": "default",
+      "commands": [
+        {
+          "id": "open-webview",
+          "title": "打开 webview 书签主页"
+        },
+        {
+          "id": "open-settings",
+          "title": "编辑 webview 倍速设置"
+        },
+        {
+          "id": "show-health",
+          "title": "查看 webview 健康状态"
         }
       ]
     }
