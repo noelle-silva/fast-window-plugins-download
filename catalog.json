@@ -1,6 +1,6 @@
 {
   "catalogVersion": 2,
-  "generatedAt": "2026-09-12T18:02:12.994Z",
+  "generatedAt": "2026-09-12T19:03:29.991Z",
   "host": {
     "id": "fast-window",
     "name": "Fast Window",
@@ -175,16 +175,16 @@
       "id": "command-runner",
       "name": "Command Runner",
       "description": "以仓库为单位管理和一键运行命令行命令",
-      "version": "0.1.5",
+      "version": "0.1.6",
       "icon": {
         "type": "data",
-        "dataUrl": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA2NCA2NCIgcm9sZT0iaW1nIiBhcmlhLWxhYmVsPSJDb21tYW5kIFJ1bm5lciI+CiAgPHJlY3QgeD0iNiIgeT0iNiIgd2lkdGg9IjUyIiBoZWlnaHQ9IjUyIiByeD0iMTQiIGZpbGw9IiNBOUI0RDkiIC8+CiAgPGcgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjRkZGRkZGIiBzdHJva2Utd2lkdGg9IjQiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI+CiAgICA8cmVjdCB4PSIxNiIgeT0iMTgiIHdpZHRoPSIzMiIgaGVpZ2h0PSIyOCIgcng9IjYiIC8+CiAgICA8cGF0aCBkPSJNMTYgMjZoMzIiIC8+CiAgICA8cGF0aCBkPSJNMjIgMzNsNSA1LTUgNSIgLz4KICAgIDxwYXRoIGQ9Ik0zMiA0M2g4IiAvPgogIDwvZz4KPC9zdmc+Cg=="
+        "dataUrl": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA2NCA2NCIgcm9sZT0iaW1nIiBhcmlhLWxhYmVsPSJDb21tYW5kIFJ1bm5lciI+DQogIDxyZWN0IHg9IjYiIHk9IjYiIHdpZHRoPSI1MiIgaGVpZ2h0PSI1MiIgcng9IjE0IiBmaWxsPSIjQTlCNEQ5IiAvPg0KICA8ZyBmaWxsPSJub25lIiBzdHJva2U9IiNGRkZGRkYiIHN0cm9rZS13aWR0aD0iNCIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj4NCiAgICA8cmVjdCB4PSIxNiIgeT0iMTgiIHdpZHRoPSIzMiIgaGVpZ2h0PSIyOCIgcng9IjYiIC8+DQogICAgPHBhdGggZD0iTTE2IDI2aDMyIiAvPg0KICAgIDxwYXRoIGQ9Ik0yMiAzM2w1IDUtNSA1IiAvPg0KICAgIDxwYXRoIGQ9Ik0zMiA0M2g4IiAvPg0KICA8L2c+DQo8L3N2Zz4NCg=="
       },
       "platforms": {
         "windows": {
-          "downloadUrl": "https://github.com/noelle-silva/fast-window-plugins-download/releases/download/vcommand-runner-0.1.5/command-runner-0.1.5-windows.zip",
-          "sha256": "5997818fc071e2569171b7650c980cdad468e1e4215ba1de011dffdf34214a19",
-          "sizeBytes": 5716837
+          "downloadUrl": "https://github.com/noelle-silva/fast-window-plugins-download/releases/download/vcommand-runner-0.1.6/command-runner-0.1.6-windows.zip",
+          "sha256": "52875fba4b26918bf1b7328712278b829ae44d10a4438ad25a249b334b0120aa",
+          "sizeBytes": 5721568
         }
       },
       "displayMode": "default",
