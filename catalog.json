@@ -1,6 +1,6 @@
 {
   "catalogVersion": 2,
-  "generatedAt": "2026-09-12T20:33:20.136Z",
+  "generatedAt": "2026-09-13T16:26:51.881Z",
   "host": {
     "id": "fast-window",
     "name": "Fast Window",
@@ -175,16 +175,16 @@
       "id": "command-runner",
       "name": "Command Runner",
       "description": "以仓库为单位管理和一键运行命令行命令",
-      "version": "0.1.7",
+      "version": "0.1.8",
       "icon": {
         "type": "data",
         "dataUrl": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA2NCA2NCIgcm9sZT0iaW1nIiBhcmlhLWxhYmVsPSJDb21tYW5kIFJ1bm5lciI+DQogIDxyZWN0IHg9IjYiIHk9IjYiIHdpZHRoPSI1MiIgaGVpZ2h0PSI1MiIgcng9IjE0IiBmaWxsPSIjQTlCNEQ5IiAvPg0KICA8ZyBmaWxsPSJub25lIiBzdHJva2U9IiNGRkZGRkYiIHN0cm9rZS13aWR0aD0iNCIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj4NCiAgICA8cmVjdCB4PSIxNiIgeT0iMTgiIHdpZHRoPSIzMiIgaGVpZ2h0PSIyOCIgcng9IjYiIC8+DQogICAgPHBhdGggZD0iTTE2IDI2aDMyIiAvPg0KICAgIDxwYXRoIGQ9Ik0yMiAzM2w1IDUtNSA1IiAvPg0KICAgIDxwYXRoIGQ9Ik0zMiA0M2g4IiAvPg0KICA8L2c+DQo8L3N2Zz4NCg=="
       },
       "platforms": {
         "windows": {
-          "downloadUrl": "https://github.com/noelle-silva/fast-window-plugins-download/releases/download/vcommand-runner-0.1.7/command-runner-0.1.7-windows.zip",
-          "sha256": "f5419047ce3e1f5c8fc7a15774b08c885f4c6863aacb6c3530de339a11ca7c4a",
-          "sizeBytes": 5729353
+          "downloadUrl": "https://github.com/noelle-silva/fast-window-plugins-download/releases/download/vcommand-runner-0.1.8/command-runner-0.1.8-windows.zip",
+          "sha256": "debd12a247d00f10ad0e2bbe19759d42b0ff7f6fa78e2dd89c5ced11d95595eb",
+          "sizeBytes": 5748709
         }
       },
       "displayMode": "default",
