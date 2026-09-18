@@ -1,6 +1,6 @@
 {
   "catalogVersion": 2,
-  "generatedAt": "2026-09-18T05:24:56.467Z",
+  "generatedAt": "2026-09-18T05:28:43.920Z",
   "host": {
     "id": "fast-window",
     "name": "Fast Window",
@@ -19,16 +19,16 @@
       "id": "clipboard-history",
       "name": "剪贴板历史",
       "description": "剪贴板历史 v5 canary 测试应用",
-      "version": "1.0.12",
+      "version": "1.0.13",
       "icon": {
         "type": "data",
         "dataUrl": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA2NCA2NCIgcm9sZT0iaW1nIiBhcmlhLWxhYmVsPSJDbGlwYm9hcmQgSGlzdG9yeSI+DQogIDxyZWN0IHg9IjYiIHk9IjYiIHdpZHRoPSI1MiIgaGVpZ2h0PSI1MiIgcng9IjE0IiBmaWxsPSIjQTlEM0Q5IiAvPg0KICA8ZyBmaWxsPSJub25lIiBzdHJva2U9IiNGRkZGRkYiIHN0cm9rZS13aWR0aD0iNCIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj4NCiAgICA8cGF0aCBkPSJNMjYgMThoMTIiIC8+DQogICAgPHBhdGggZD0iTTI2IDE0aDEydjZIMjZ6IiAvPg0KICAgIDxwYXRoIGQ9Ik0yMiAyMHYzMGgyMFYyMCIgLz4NCiAgICA8cGF0aCBkPSJNMjYgMzBoMTIiIC8+DQogICAgPHBhdGggZD0iTTI2IDM4aDEwIiAvPg0KICA8L2c+DQo8L3N2Zz4NCg=="
       },
       "platforms": {
         "windows": {
-          "downloadUrl": "https://github.com/noelle-silva/fast-window-plugins-download/releases/download/vclipboard-history-1.0.12/clipboard-history-1.0.12-windows.zip",
-          "sha256": "eef73101226113a4f40239a78024f64be4b9f3644537ef42d8c04ec8923bdd46",
-          "sizeBytes": 3548729
+          "downloadUrl": "https://github.com/noelle-silva/fast-window-plugins-download/releases/download/vclipboard-history-1.0.13/clipboard-history-1.0.13-windows.zip",
+          "sha256": "f6a40c8d6070cd0b8d3271ebc5d53d6bc62a793d519928f82e024da5ae2757c9",
+          "sizeBytes": 3684226
         }
       },
       "displayMode": "default",
