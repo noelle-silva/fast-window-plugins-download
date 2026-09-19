@@ -1,6 +1,6 @@
 {
   "catalogVersion": 2,
-  "generatedAt": "2026-09-18T17:30:49.568Z",
+  "generatedAt": "2026-09-19T06:17:41.525Z",
   "host": {
     "id": "fast-window",
     "name": "Fast Window",
@@ -222,6 +222,43 @@
       },
       "displayMode": "default",
       "commands": []
+    },
+    {
+      "type": "desktop-app",
+      "id": "eucli-studio",
+      "name": "eucli-studio",
+      "description": "多供应商与角色系统的 v5 eucli-studio 应用",
+      "version": "0.1.9",
+      "icon": {
+        "type": "data",
+        "dataUrl": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA2NCA2NCIgcm9sZT0iaW1nIiBhcmlhLWxhYmVsPSJldWNsaS1zdHVkaW8iPgogIDxyZWN0IHg9IjYiIHk9IjYiIHdpZHRoPSI1MiIgaGVpZ2h0PSI1MiIgcng9IjE0IiBmaWxsPSIjQTlCRkRFIiAvPgogIDxwYXRoIGQ9Ik0zMSAxNkwzNSAyOUw0OCAzM0wzNSAzN0wzMSA1MEwyNyAzN0wxNCAzM0wyNyAyOVoiIGZpbGw9Im5vbmUiIHN0cm9rZT0iI2ZmZiIgc3Ryb2tlLXdpZHRoPSIzLjUiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIC8+CiAgPHBhdGggZD0iTTQ3IDExTDQ4LjUgMTUuNUw1MyAxN0w0OC41IDE4LjVMNDcgMjNMNDUuNSAxOC41TDQxIDE3TDQ1LjUgMTUuNVoiIGZpbGw9IiNmZmYiIC8+Cjwvc3ZnPgo="
+      },
+      "platforms": {
+        "windows": {
+          "downloadUrl": "https://github.com/noelle-silva/fast-window-plugins-download/releases/download/veucli-studio-0.1.9/eucli-studio-0.1.9-windows.zip",
+          "sha256": "27e7c38ac34edb1f2eaeee3404d5fa23b3c8eff05cdbcb01b324fc4e4f514cac",
+          "sizeBytes": 7797872
+        }
+      },
+      "displayMode": "default",
+      "commands": [
+        {
+          "id": "new-chat",
+          "title": "新建对话"
+        },
+        {
+          "id": "open-studio",
+          "title": "打开 eucli-studio"
+        },
+        {
+          "id": "provider-settings",
+          "title": "模型提供商设置"
+        },
+        {
+          "id": "open-settings",
+          "title": "打开设置"
+        }
+      ]
     },
     {
       "id": "everything",
