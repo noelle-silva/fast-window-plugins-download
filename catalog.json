@@ -1,6 +1,6 @@
 {
   "catalogVersion": 2,
-  "generatedAt": "2026-09-20T12:14:14.517Z",
+  "generatedAt": "2026-09-20T12:37:04.365Z",
   "host": {
     "id": "fast-window",
     "name": "Fast Window",
@@ -367,16 +367,16 @@
       "id": "webview",
       "name": "webview",
       "description": "Fast Window v5 独立 App：收藏桌面（网址收藏 + 桌面图标 + 收纳夹）+ 内嵌浏览栈（网页窗口 + 视频倍速）",
-      "version": "0.1.8",
+      "version": "0.1.9",
       "icon": {
         "type": "data",
         "dataUrl": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA2NCA2NCIgcm9sZT0iaW1nIiBhcmlhLWxhYmVsPSJ3ZWJ2aWV3Ij4NCiAgPHJlY3QgeD0iNiIgeT0iNiIgd2lkdGg9IjUyIiBoZWlnaHQ9IjUyIiByeD0iMTQiIGZpbGw9IiNBOUM2RTAiIC8+DQogIDxnIGZpbGw9Im5vbmUiIHN0cm9rZT0iI0ZGRkZGRiIgc3Ryb2tlLXdpZHRoPSI0IiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiPg0KICAgIDxyZWN0IHg9IjE2IiB5PSIxNCIgd2lkdGg9IjMyIiBoZWlnaHQ9IjM2IiByeD0iNyIgLz4NCiAgICA8cGF0aCBkPSJNMTYgMjRoMzIiIC8+DQogICAgPGNpcmNsZSBjeD0iMzIiIGN5PSIzNyIgcj0iNyIgLz4NCiAgICA8cGF0aCBkPSJNMjUgMzdoMTRNMjkgMzEuNWExMCAxMCAwIDAgMCAwIDExTTM1IDMxLjVhMTAgMTAgMCAwIDEgMCAxMSIgLz4NCiAgPC9nPg0KPC9zdmc+DQo="
       },
       "platforms": {
         "windows": {
-          "downloadUrl": "https://github.com/noelle-silva/fast-window-plugins-download/releases/download/vwebview-0.1.8/webview-0.1.8-windows.zip",
-          "sha256": "3f6a2988d82cd5ac9f715936e3014bb7db3efafdb00699bdcf599b62726e371f",
-          "sizeBytes": 6964803
+          "downloadUrl": "https://github.com/noelle-silva/fast-window-plugins-download/releases/download/vwebview-0.1.9/webview-0.1.9-windows.zip",
+          "sha256": "a9f16b14332937c75bf514eb6bbe96d9eceaadff13e378ae6cddac024cfd94e9",
+          "sizeBytes": 6966386
         }
       },
       "displayMode": "default",
