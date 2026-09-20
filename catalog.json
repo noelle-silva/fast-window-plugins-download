@@ -1,16 +1,16 @@
 {
   "catalogVersion": 2,
-  "generatedAt": "2026-09-20T03:59:20.433Z",
+  "generatedAt": "2026-09-20T04:18:39.220Z",
   "host": {
     "id": "fast-window",
     "name": "Fast Window",
-    "version": "1.9.0",
+    "version": "1.9.1",
     "platforms": {
       "windows": {
         "installerType": "msi",
-        "downloadUrl": "https://github.com/noelle-silva/fast-window/releases/download/vhost-1.9.0/fast-window-1.9.0-windows-x64.msi",
-        "sha256": "672ff34467845c02ddb339a2261fc0ed4ab6c06ceab8edcc44a3da5afca468a5",
-        "sizeBytes": 3633152
+        "downloadUrl": "https://github.com/noelle-silva/fast-window/releases/download/vhost-1.9.1/fast-window-1.9.1-windows-x64.msi",
+        "sha256": "212441f2daf355d637d95b35d91cc9234bb05d357db430f9680ff233571a00e5",
+        "sizeBytes": 3645440
       }
     }
   },
