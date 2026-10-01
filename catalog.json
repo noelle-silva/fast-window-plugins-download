@@ -1,6 +1,6 @@
 {
   "catalogVersion": 2,
-  "generatedAt": "2026-09-30T19:52:27.210Z",
+  "generatedAt": "2026-10-01T17:27:02.640Z",
   "host": {
     "id": "fast-window",
     "name": "Fast Window",
@@ -263,19 +263,20 @@
       ]
     },
     {
+      "type": "desktop-app",
       "id": "everything",
       "name": "Everything",
       "description": "Fast Window v5 Everything 搜索应用",
-      "version": "0.1.6",
+      "version": "0.1.7",
       "icon": {
         "type": "data",
         "dataUrl": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMjggMTI4IiByb2xlPSJpbWciIGFyaWEtbGFiZWw9IkV2ZXJ5dGhpbmciPg0KICA8cmVjdCB3aWR0aD0iMTI4IiBoZWlnaHQ9IjEyOCIgcng9IjMwIiBmaWxsPSIjZmZmZmZmIi8+DQogIDxjaXJjbGUgY3g9IjU3IiBjeT0iNTYiIHI9IjI2IiBmaWxsPSJub25lIiBzdHJva2U9IiNmOTczMTYiIHN0cm9rZS13aWR0aD0iMTIiLz4NCiAgPHBhdGggZD0ibTc4IDc3IDIzIDIzIiBmaWxsPSJub25lIiBzdHJva2U9IiNmOTczMTYiIHN0cm9rZS13aWR0aD0iMTMiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIvPg0KPC9zdmc+DQo="
       },
       "platforms": {
         "windows": {
-          "downloadUrl": "https://github.com/noelle-silva/fast-window-plugins-download/releases/download/veverything-0.1.6/everything-0.1.6-windows.zip",
-          "sha256": "19ca7f9357f311076684ca18818955e6fda3f95e1193e1c56ac4ba51090efcdb",
-          "sizeBytes": 6798763
+          "downloadUrl": "https://github.com/noelle-silva/fast-window-plugins-download/releases/download/veverything-0.1.7/everything-0.1.7-windows.zip",
+          "sha256": "d3da78c21417b959ad0a4991f6224f9b6317cf0c2fa5e06b8d702a80f4dab4ac",
+          "sizeBytes": 6817237
         }
       },
       "displayMode": "default",
