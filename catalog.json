@@ -1,6 +1,6 @@
 {
   "catalogVersion": 2,
-  "generatedAt": "2026-10-08T15:09:01.896Z",
+  "generatedAt": "2026-10-08T21:10:45.267Z",
   "host": {
     "id": "fast-window",
     "name": "Fast Window",
@@ -229,16 +229,16 @@
       "id": "eucli-studio",
       "name": "eucli-studio",
       "description": "多供应商与角色系统的 v5 eucli-studio 应用",
-      "version": "0.3.2",
+      "version": "0.3.3",
       "icon": {
         "type": "data",
         "dataUrl": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA2NCA2NCIgcm9sZT0iaW1nIiBhcmlhLWxhYmVsPSJldWNsaS1zdHVkaW8iPg0KICA8cmVjdCB4PSI2IiB5PSI2IiB3aWR0aD0iNTIiIGhlaWdodD0iNTIiIHJ4PSIxNCIgZmlsbD0iI0E5QkZERSIgLz4NCiAgPHBhdGggZD0iTTMxIDE2TDM1IDI5TDQ4IDMzTDM1IDM3TDMxIDUwTDI3IDM3TDE0IDMzTDI3IDI5WiIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjZmZmIiBzdHJva2Utd2lkdGg9IjMuNSIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgLz4NCiAgPHBhdGggZD0iTTQ3IDExTDQ4LjUgMTUuNUw1MyAxN0w0OC41IDE4LjVMNDcgMjNMNDUuNSAxOC41TDQxIDE3TDQ1LjUgMTUuNVoiIGZpbGw9IiNmZmYiIC8+DQo8L3N2Zz4NCg=="
       },
       "platforms": {
         "windows": {
-          "downloadUrl": "https://github.com/noelle-silva/fast-window-plugins-download/releases/download/veucli-studio-0.3.2/eucli-studio-0.3.2-windows.zip",
-          "sha256": "b0f4cf097e6caf1cc310dbd8ac44f7e531a2e78b03090c33d0e521b39908fb4e",
-          "sizeBytes": 7665660
+          "downloadUrl": "https://github.com/noelle-silva/fast-window-plugins-download/releases/download/veucli-studio-0.3.3/eucli-studio-0.3.3-windows.zip",
+          "sha256": "2ab5414b59e2f2a0c21a2fef8c1d1abbebceab76cd2ed1c63b9fc6c33aab1bc6",
+          "sizeBytes": 7662506
         }
       },
       "commands": [
