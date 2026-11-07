@@ -1,6 +1,6 @@
 {
   "catalogVersion": 2,
-  "generatedAt": "2026-11-07T18:10:51.448Z",
+  "generatedAt": "2026-11-07T21:26:46.606Z",
   "host": {
     "id": "fast-window",
     "name": "Fast Window",
@@ -210,16 +210,16 @@
       "id": "eucli-box",
       "name": "eucli-box",
       "description": "eucli-AI agent 内核",
-      "version": "0.1.17",
+      "version": "0.1.18",
       "icon": {
         "type": "data",
         "dataUrl": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA2NCA2NCIgcm9sZT0iaW1nIiBhcmlhLWxhYmVsPSJldWNsaS1ib3giPgogIDxyZWN0IHg9IjYiIHk9IjYiIHdpZHRoPSI1MiIgaGVpZ2h0PSI1MiIgcng9IjE0IiBmaWxsPSIjOUZDOUMwIiAvPgogIDxnIGZpbGw9Im5vbmUiIHN0cm9rZT0iI0ZGRkZGRiIgc3Ryb2tlLXdpZHRoPSI0IiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiPgogICAgPHBhdGggZD0iTTE4IDI1bDE0LTcgMTQgNy0xNCA3LTE0LTd6IiAvPgogICAgPHBhdGggZD0iTTE4IDI1djE0bDE0IDdWMzIiIC8+CiAgICA8cGF0aCBkPSJNNDYgMjV2MTRsLTE0IDciIC8+CiAgPC9nPgogIDxjaXJjbGUgY3g9IjI1IiBjeT0iMzUiIHI9IjIuNSIgZmlsbD0iI0ZGRkZGRiIgLz4KPC9zdmc+Cg=="
       },
       "platforms": {
         "windows": {
-          "downloadUrl": "https://github.com/noelle-silva/fast-window-plugins-download/releases/download/veucli-box-0.1.17/eucli-box_0.1.17_windows-x64.zip",
-          "sha256": "45dfc9338d9846b63bf3464bd4cedc327f452dd429790315749092e2d5e66462",
-          "sizeBytes": 8193550
+          "downloadUrl": "https://github.com/noelle-silva/fast-window-plugins-download/releases/download/veucli-box-0.1.18/eucli-box_0.1.18_windows-x64.zip",
+          "sha256": "2cb1b0f975fee64cc4ddb013c7d464e29afdf4deff898a0a3eb1c3a6409fec22",
+          "sizeBytes": 8220642
         }
       },
       "commands": []
