@@ -1,6 +1,6 @@
 {
   "catalogVersion": 2,
-  "generatedAt": "2026-11-15T13:17:03.697Z",
+  "generatedAt": "2026-11-19T10:29:42.903Z",
   "host": {
     "id": "fast-window",
     "name": "Fast Window",
@@ -220,6 +220,25 @@
           "downloadUrl": "https://github.com/noelle-silva/fast-window-plugins-download/releases/download/veucli-box-0.1.27/eucli-box_0.1.27_windows-x64.zip",
           "sha256": "adbf2fc0dd3626eb9f5db9834a0baffbf7fc9a73a8cd08d04f6622f88195e7b7",
           "sizeBytes": 8396930
+        }
+      },
+      "commands": []
+    },
+    {
+      "type": "service-app",
+      "id": "eucli-deep-wiki",
+      "name": "eucli-deep-wiki",
+      "description": "参考仓库服务端：托管参考仓库并对外提供检索与管理接口",
+      "version": "0.1.0",
+      "icon": {
+        "type": "data",
+        "dataUrl": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA2NCA2NCIgcm9sZT0iaW1nIiBhcmlhLWxhYmVsPSJldWNsaS1kZWVwLXdpa2kiPgogIDxyZWN0IHg9IjYiIHk9IjYiIHdpZHRoPSI1MiIgaGVpZ2h0PSI1MiIgcng9IjE0IiBmaWxsPSIjQzdCNDlCIiAvPgogIDxnIGZpbGw9Im5vbmUiIHN0cm9rZT0iI0ZGRkZGRiIgc3Ryb2tlLXdpZHRoPSI0IiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiPgogICAgPHBhdGggZD0iTTE0IDIxYzYtMyAxMi0zIDE4IDEgNi00IDEyLTQgMTgtMXYyNGMtNi0zLTEyLTMtMTggMS02LTQtMTItNC0xOC0xeiIgLz4KICAgIDxwYXRoIGQ9Ik0zMiAyMnYyNCIgLz4KICAgIDxwYXRoIGQ9Ik0zOCAzMGg2IiAvPgogICAgPHBhdGggZD0iTTM4IDM2aDYiIC8+CiAgPC9nPgo8L3N2Zz4K"
+      },
+      "platforms": {
+        "windows": {
+          "downloadUrl": "https://github.com/noelle-silva/fast-window-plugins-download/releases/download/veucli-deep-wiki-0.1.0/eucli-deep-wiki_0.1.0_windows-x64.zip",
+          "sha256": "725e122a89ce827809f4d7e34b278cdb4612236e535432a54d6c4f0037a120a2",
+          "sizeBytes": 3049302
         }
       },
       "commands": []
