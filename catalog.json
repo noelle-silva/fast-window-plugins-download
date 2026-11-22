@@ -1,6 +1,6 @@
 {
   "catalogVersion": 2,
-  "generatedAt": "2026-11-22T02:12:36.478Z",
+  "generatedAt": "2026-11-22T03:52:18.425Z",
   "host": {
     "id": "fast-window",
     "name": "Fast Window",
@@ -229,16 +229,16 @@
       "id": "eucli-code-factory",
       "name": "eucli-code-factory",
       "description": "多分支并行开发体系的服务器：管理开发空间、分支实例测试与合并队列",
-      "version": "0.1.5",
+      "version": "0.1.6",
       "icon": {
         "type": "data",
         "dataUrl": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA2NCA2NCIgd2lkdGg9IjY0IiBoZWlnaHQ9IjY0Ij4KICA8cmVjdCB3aWR0aD0iNjQiIGhlaWdodD0iNjQiIHJ4PSIxNCIgZmlsbD0iIzBmNzY2ZSIvPgogIDxnIGZpbGw9Im5vbmUiIHN0cm9rZT0iI2ZmZmZmZiIgc3Ryb2tlLXdpZHRoPSIzLjUiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI+CiAgICA8cGF0aCBkPSJNMTggMTR2MzYiLz4KICAgIDxwYXRoIGQ9Ik0xOCAyMmMwIDggMTIgNiAxMiAxNnYxMiIvPgogICAgPHBhdGggZD0iTTE4IDMwYzAgNiAyMiA0IDIyIDEydjgiLz4KICA8L2c+CiAgPGcgZmlsbD0iI2ZmZmZmZiI+CiAgICA8Y2lyY2xlIGN4PSIxOCIgY3k9IjE0IiByPSI0Ii8+CiAgICA8Y2lyY2xlIGN4PSIxOCIgY3k9IjUwIiByPSI0Ii8+CiAgPC9nPgogIDxnIGZpbGw9IiNmYmJmMjQiPgogICAgPGNpcmNsZSBjeD0iMzAiIGN5PSI1MCIgcj0iMy41Ii8+CiAgICA8Y2lyY2xlIGN4PSI0MCIgY3k9IjUwIiByPSIzLjUiLz4KICA8L2c+Cjwvc3ZnPgo="
       },
       "platforms": {
         "windows": {
-          "downloadUrl": "https://github.com/noelle-silva/fast-window-plugins-download/releases/download/veucli-code-factory-0.1.5/eucli-code-factory-0.1.5-windows.zip",
-          "sha256": "36277b6ef8611a34025b8c31324a3effc902c8f62efc9aa6e170ff8ff44638f5",
-          "sizeBytes": 3617799
+          "downloadUrl": "https://github.com/noelle-silva/fast-window-plugins-download/releases/download/veucli-code-factory-0.1.6/eucli-code-factory-0.1.6-windows.zip",
+          "sha256": "536102a9b449476c16d5cbc52d570d2708264f5d3203dee6647d253fa7517aad",
+          "sizeBytes": 3658736
         }
       },
       "commands": []
