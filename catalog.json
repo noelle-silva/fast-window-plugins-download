@@ -1,6 +1,6 @@
 {
   "catalogVersion": 2,
-  "generatedAt": "2026-11-22T13:18:57.359Z",
+  "generatedAt": "2026-11-22T13:40:08.404Z",
   "host": {
     "id": "fast-window",
     "name": "Fast Window",
@@ -15,38 +15,6 @@
     }
   },
   "apps": [
-    {
-      "type": "desktop-app",
-      "id": "eucli-code-factory-console",
-      "name": "代码工厂控制台",
-      "description": "eucli-cfd 的可视化客户端：观测与操作开发空间、分支、合并队列与作业",
-      "version": "0.1.0",
-      "icon": {
-        "type": "data",
-        "dataUrl": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA2NCA2NCIgcm9sZT0iaW1nIiBhcmlhLWxhYmVsPSLku6PnoIHlt6XljoLmjqfliLblj7AiPgogIDxyZWN0IHg9IjAiIHk9IjAiIHdpZHRoPSI2NCIgaGVpZ2h0PSI2NCIgcng9IjE0IiBmaWxsPSIjMWY1ZjRmIi8+CiAgPGcgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjZmZmZmZmIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIHN0cm9rZS13aWR0aD0iMyI+CiAgICA8cGF0aCBkPSJNMTcgNDRWMjZsNyA3IDctN3YxOCIvPgogICAgPHBhdGggZD0iTTQxIDI2djE4bDctNSIvPgogIDwvZz4KICA8ZyBmaWxsPSJub25lIiBzdHJva2U9IiNmZmZmZmYiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLXdpZHRoPSIzIj4KICAgIDxjaXJjbGUgY3g9IjQ1IiBjeT0iMjAiIHI9IjQuNSIvPgogICAgPHBhdGggZD0iTTQ1IDEyLjV2M000NSAyNC41djNNMzcuNSAyMGgzTTQ5LjUgMjBoM00zOS43IDE0LjdsMi4xIDIuMU00OC4yIDIzLjJsMi4xIDIuMU01MC4zIDE0LjdsLTIuMSAyLjFNNDEuOCAyMy4ybC0yLjEgMi4xIi8+CiAgPC9nPgo8L3N2Zz4K"
-      },
-      "platforms": {
-        "windows": {
-          "downloadUrl": "https://github.com/noelle-silva/fast-window-plugins-download/releases/download/veucli-code-factory-console-0.1.0/eucli-code-factory-console-0.1.0-windows.zip",
-          "sha256": "218305c7b85b25b9da7e73f6f75549411ce0e730eb66a455ad2960d4c21f9c86",
-          "sizeBytes": 6544789
-        }
-      },
-      "commands": [
-        {
-          "id": "open-console",
-          "title": "打开代码工厂控制台"
-        },
-        {
-          "id": "open-jobs",
-          "title": "查看作业中心"
-        },
-        {
-          "id": "open-connection",
-          "title": "设置服务器连接"
-        }
-      ]
-    },
     {
       "id": "clipboard-history",
       "name": "剪贴板历史",
@@ -274,6 +242,38 @@
         }
       },
       "commands": []
+    },
+    {
+      "type": "desktop-app",
+      "id": "eucli-code-factory-console",
+      "name": "eucli-code-factory-console",
+      "description": "eucli-cfd 的可视化客户端：观测与操作开发空间、分支、合并队列与作业",
+      "version": "0.1.1",
+      "icon": {
+        "type": "data",
+        "dataUrl": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA2NCA2NCIgcm9sZT0iaW1nIiBhcmlhLWxhYmVsPSJldWNsaS1jb2RlLWZhY3RvcnktY29uc29sZSI+CiAgPHJlY3QgeD0iMCIgeT0iMCIgd2lkdGg9IjY0IiBoZWlnaHQ9IjY0IiByeD0iMTQiIGZpbGw9IiMxZjVmNGYiLz4KICA8ZyBmaWxsPSJub25lIiBzdHJva2U9IiNmZmZmZmYiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgc3Ryb2tlLXdpZHRoPSIzIj4KICAgIDxwYXRoIGQ9Ik0xNyA0NFYyNmw3IDcgNy03djE4Ii8+CiAgICA8cGF0aCBkPSJNNDEgMjZ2MThsNy01Ii8+CiAgPC9nPgogIDxnIGZpbGw9Im5vbmUiIHN0cm9rZT0iI2ZmZmZmZiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2Utd2lkdGg9IjMiPgogICAgPGNpcmNsZSBjeD0iNDUiIGN5PSIyMCIgcj0iNC41Ii8+CiAgICA8cGF0aCBkPSJNNDUgMTIuNXYzTTQ1IDI0LjV2M00zNy41IDIwaDNNNDkuNSAyMGgzTTM5LjcgMTQuN2wyLjEgMi4xTTQ4LjIgMjMuMmwyLjEgMi4xTTUwLjMgMTQuN2wtMi4xIDIuMU00MS44IDIzLjJsLTIuMSAyLjEiLz4KICA8L2c+Cjwvc3ZnPgo="
+      },
+      "platforms": {
+        "windows": {
+          "downloadUrl": "https://github.com/noelle-silva/fast-window-plugins-download/releases/download/veucli-code-factory-console-0.1.1/eucli-code-factory-console-0.1.1-windows.zip",
+          "sha256": "68ad56e9be34f50693642af41d7a5135a94aa77b13fd12ddbb82eb836af0184a",
+          "sizeBytes": 6552239
+        }
+      },
+      "commands": [
+        {
+          "id": "open-console",
+          "title": "打开 eucli-code-factory-console"
+        },
+        {
+          "id": "open-jobs",
+          "title": "查看作业中心"
+        },
+        {
+          "id": "open-connection",
+          "title": "设置服务器连接"
+        }
+      ]
     },
     {
       "type": "service-app",
