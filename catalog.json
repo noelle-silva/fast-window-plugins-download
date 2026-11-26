@@ -1,6 +1,6 @@
 {
   "catalogVersion": 2,
-  "generatedAt": "2026-11-26T18:03:37.446Z",
+  "generatedAt": "2026-11-26T18:06:49.176Z",
   "host": {
     "id": "fast-window",
     "name": "Fast Window",
@@ -248,16 +248,16 @@
       "id": "eucli-code-factory-console",
       "name": "eucli-code-factory-console",
       "description": "eucli-cfd 的可视化客户端：观测与操作开发空间、分支、合并队列与作业",
-      "version": "0.1.1",
+      "version": "0.2.0",
       "icon": {
         "type": "data",
-        "dataUrl": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA2NCA2NCIgcm9sZT0iaW1nIiBhcmlhLWxhYmVsPSJldWNsaS1jb2RlLWZhY3RvcnktY29uc29sZSI+CiAgPHJlY3QgeD0iMCIgeT0iMCIgd2lkdGg9IjY0IiBoZWlnaHQ9IjY0IiByeD0iMTQiIGZpbGw9IiMxZjVmNGYiLz4KICA8ZyBmaWxsPSJub25lIiBzdHJva2U9IiNmZmZmZmYiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgc3Ryb2tlLXdpZHRoPSIzIj4KICAgIDxwYXRoIGQ9Ik0xNyA0NFYyNmw3IDcgNy03djE4Ii8+CiAgICA8cGF0aCBkPSJNNDEgMjZ2MThsNy01Ii8+CiAgPC9nPgogIDxnIGZpbGw9Im5vbmUiIHN0cm9rZT0iI2ZmZmZmZiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2Utd2lkdGg9IjMiPgogICAgPGNpcmNsZSBjeD0iNDUiIGN5PSIyMCIgcj0iNC41Ii8+CiAgICA8cGF0aCBkPSJNNDUgMTIuNXYzTTQ1IDI0LjV2M00zNy41IDIwaDNNNDkuNSAyMGgzTTM5LjcgMTQuN2wyLjEgMi4xTTQ4LjIgMjMuMmwyLjEgMi4xTTUwLjMgMTQuN2wtMi4xIDIuMU00MS44IDIzLjJsLTIuMSAyLjEiLz4KICA8L2c+Cjwvc3ZnPgo="
+        "dataUrl": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA2NCA2NCIgcm9sZT0iaW1nIiBhcmlhLWxhYmVsPSJldWNsaS1jb2RlLWZhY3RvcnktY29uc29sZSI+DQogIDxyZWN0IHg9IjAiIHk9IjAiIHdpZHRoPSI2NCIgaGVpZ2h0PSI2NCIgcng9IjE0IiBmaWxsPSIjMWY1ZjRmIi8+DQogIDxnIGZpbGw9Im5vbmUiIHN0cm9rZT0iI2ZmZmZmZiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjMiPg0KICAgIDxwYXRoIGQ9Ik0xNyA0NFYyNmw3IDcgNy03djE4Ii8+DQogICAgPHBhdGggZD0iTTQxIDI2djE4bDctNSIvPg0KICA8L2c+DQogIDxnIGZpbGw9Im5vbmUiIHN0cm9rZT0iI2ZmZmZmZiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2Utd2lkdGg9IjMiPg0KICAgIDxjaXJjbGUgY3g9IjQ1IiBjeT0iMjAiIHI9IjQuNSIvPg0KICAgIDxwYXRoIGQ9Ik00NSAxMi41djNNNDUgMjQuNXYzTTM3LjUgMjBoM000OS41IDIwaDNNMzkuNyAxNC43bDIuMSAyLjFNNDguMiAyMy4ybDIuMSAyLjFNNTAuMyAxNC43bC0yLjEgMi4xTTQxLjggMjMuMmwtMi4xIDIuMSIvPg0KICA8L2c+DQo8L3N2Zz4NCg=="
       },
       "platforms": {
         "windows": {
-          "downloadUrl": "https://github.com/noelle-silva/fast-window-plugins-download/releases/download/veucli-code-factory-console-0.1.1/eucli-code-factory-console-0.1.1-windows.zip",
-          "sha256": "68ad56e9be34f50693642af41d7a5135a94aa77b13fd12ddbb82eb836af0184a",
-          "sizeBytes": 6552239
+          "downloadUrl": "https://github.com/noelle-silva/fast-window-plugins-download/releases/download/veucli-code-factory-console-0.2.0/eucli-code-factory-console-0.2.0-windows.zip",
+          "sha256": "3c8c9a3fc5cf8f2e502fa8eac372b7fa355ac66d2f3e9b29c95c40751a5f98fe",
+          "sizeBytes": 6554839
         }
       },
       "commands": [
