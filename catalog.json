@@ -1,6 +1,6 @@
 {
   "catalogVersion": 2,
-  "generatedAt": "2026-11-22T13:40:08.404Z",
+  "generatedAt": "2026-11-26T18:03:37.446Z",
   "host": {
     "id": "fast-window",
     "name": "Fast Window",
@@ -229,16 +229,16 @@
       "id": "eucli-code-factory",
       "name": "eucli-code-factory",
       "description": "多分支并行开发体系的服务器：管理开发空间、分支实例测试与合并队列",
-      "version": "0.1.7",
+      "version": "0.2.0",
       "icon": {
         "type": "data",
-        "dataUrl": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA2NCA2NCIgd2lkdGg9IjY0IiBoZWlnaHQ9IjY0Ij4KICA8cmVjdCB3aWR0aD0iNjQiIGhlaWdodD0iNjQiIHJ4PSIxNCIgZmlsbD0iIzBmNzY2ZSIvPgogIDxnIGZpbGw9Im5vbmUiIHN0cm9rZT0iI2ZmZmZmZiIgc3Ryb2tlLXdpZHRoPSIzLjUiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI+CiAgICA8cGF0aCBkPSJNMTggMTR2MzYiLz4KICAgIDxwYXRoIGQ9Ik0xOCAyMmMwIDggMTIgNiAxMiAxNnYxMiIvPgogICAgPHBhdGggZD0iTTE4IDMwYzAgNiAyMiA0IDIyIDEydjgiLz4KICA8L2c+CiAgPGcgZmlsbD0iI2ZmZmZmZiI+CiAgICA8Y2lyY2xlIGN4PSIxOCIgY3k9IjE0IiByPSI0Ii8+CiAgICA8Y2lyY2xlIGN4PSIxOCIgY3k9IjUwIiByPSI0Ii8+CiAgPC9nPgogIDxnIGZpbGw9IiNmYmJmMjQiPgogICAgPGNpcmNsZSBjeD0iMzAiIGN5PSI1MCIgcj0iMy41Ii8+CiAgICA8Y2lyY2xlIGN4PSI0MCIgY3k9IjUwIiByPSIzLjUiLz4KICA8L2c+Cjwvc3ZnPgo="
+        "dataUrl": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA2NCA2NCIgd2lkdGg9IjY0IiBoZWlnaHQ9IjY0Ij4NCiAgPHJlY3Qgd2lkdGg9IjY0IiBoZWlnaHQ9IjY0IiByeD0iMTQiIGZpbGw9IiMwZjc2NmUiLz4NCiAgPGcgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjZmZmZmZmIiBzdHJva2Utd2lkdGg9IjMuNSIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj4NCiAgICA8cGF0aCBkPSJNMTggMTR2MzYiLz4NCiAgICA8cGF0aCBkPSJNMTggMjJjMCA4IDEyIDYgMTIgMTZ2MTIiLz4NCiAgICA8cGF0aCBkPSJNMTggMzBjMCA2IDIyIDQgMjIgMTJ2OCIvPg0KICA8L2c+DQogIDxnIGZpbGw9IiNmZmZmZmYiPg0KICAgIDxjaXJjbGUgY3g9IjE4IiBjeT0iMTQiIHI9IjQiLz4NCiAgICA8Y2lyY2xlIGN4PSIxOCIgY3k9IjUwIiByPSI0Ii8+DQogIDwvZz4NCiAgPGcgZmlsbD0iI2ZiYmYyNCI+DQogICAgPGNpcmNsZSBjeD0iMzAiIGN5PSI1MCIgcj0iMy41Ii8+DQogICAgPGNpcmNsZSBjeD0iNDAiIGN5PSI1MCIgcj0iMy41Ii8+DQogIDwvZz4NCjwvc3ZnPg0K"
       },
       "platforms": {
         "windows": {
-          "downloadUrl": "https://github.com/noelle-silva/fast-window-plugins-download/releases/download/veucli-code-factory-0.1.7/eucli-code-factory-0.1.7-windows.zip",
-          "sha256": "5518353c47691734b703e37daffa683137c0f235099dcf1f7edee423739b406c",
-          "sizeBytes": 3675884
+          "downloadUrl": "https://github.com/noelle-silva/fast-window-plugins-download/releases/download/veucli-code-factory-0.2.0/eucli-code-factory-0.2.0-windows.zip",
+          "sha256": "84106e32f8ee63bbc9b86483c5a75210fca0bf7d3320c3ebbd2fbf4317e5e206",
+          "sizeBytes": 3634342
         }
       },
       "commands": []
