@@ -1,6 +1,6 @@
 {
   "catalogVersion": 2,
-  "generatedAt": "2026-11-27T06:20:54.026Z",
+  "generatedAt": "2026-11-27T06:25:02.288Z",
   "host": {
     "id": "fast-window",
     "name": "Fast Window",
@@ -248,16 +248,16 @@
       "id": "eucli-code-factory-console",
       "name": "eucli-code-factory-console",
       "description": "eucli-cfd 的可视化客户端：观测与操作开发空间、分支、合并队列与作业",
-      "version": "0.2.1",
+      "version": "0.2.2",
       "icon": {
         "type": "data",
         "dataUrl": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA2NCA2NCIgcm9sZT0iaW1nIiBhcmlhLWxhYmVsPSJldWNsaS1jb2RlLWZhY3RvcnktY29uc29sZSI+DQogIDxyZWN0IHg9IjAiIHk9IjAiIHdpZHRoPSI2NCIgaGVpZ2h0PSI2NCIgcng9IjE0IiBmaWxsPSIjMWY1ZjRmIi8+DQogIDxnIGZpbGw9Im5vbmUiIHN0cm9rZT0iI2ZmZmZmZiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjMiPg0KICAgIDxwYXRoIGQ9Ik0xNyA0NFYyNmw3IDcgNy03djE4Ii8+DQogICAgPHBhdGggZD0iTTQxIDI2djE4bDctNSIvPg0KICA8L2c+DQogIDxnIGZpbGw9Im5vbmUiIHN0cm9rZT0iI2ZmZmZmZiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2Utd2lkdGg9IjMiPg0KICAgIDxjaXJjbGUgY3g9IjQ1IiBjeT0iMjAiIHI9IjQuNSIvPg0KICAgIDxwYXRoIGQ9Ik00NSAxMi41djNNNDUgMjQuNXYzTTM3LjUgMjBoM000OS41IDIwaDNNMzkuNyAxNC43bDIuMSAyLjFNNDguMiAyMy4ybDIuMSAyLjFNNTAuMyAxNC43bC0yLjEgMi4xTTQxLjggMjMuMmwtMi4xIDIuMSIvPg0KICA8L2c+DQo8L3N2Zz4NCg=="
       },
       "platforms": {
         "windows": {
-          "downloadUrl": "https://github.com/noelle-silva/fast-window-plugins-download/releases/download/veucli-code-factory-console-0.2.1/eucli-code-factory-console-0.2.1-windows.zip",
-          "sha256": "17ce2e0bf723a6a60c826f1eca1a0f03f3a2f5203ab3126f771b53691e64a54e",
-          "sizeBytes": 6555928
+          "downloadUrl": "https://github.com/noelle-silva/fast-window-plugins-download/releases/download/veucli-code-factory-console-0.2.2/eucli-code-factory-console-0.2.2-windows.zip",
+          "sha256": "4d1a0ccb1c586ac80a9bc99815cc0b019fd457666775e4b8bbbff353b94c8140",
+          "sizeBytes": 6557793
         }
       },
       "commands": [
